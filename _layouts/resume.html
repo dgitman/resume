@@ -60,7 +60,7 @@
         <div class="resume-item" itemscope itemprop="worksFor" itemtype="http://schema.org/Organization">
           <h3 class="resume-item-title" itemprop="name">{{ job.company }}</h3>
           <h4 class="resume-item-details" itemprop="description">{{ job.position }} &bull; {{ job.duration }}</h4>
-          <p class="resume-item-copy">{{ job.summary }}</p>
+          <div class="resume-item-copy">{{ job.summary }}</div>
         </div><!-- end of resume-item -->
         {% endfor %}
 
@@ -81,15 +81,19 @@
           <h3 class="resume-item-title" itemprop="name">{{ education.uni }}</h3>
           <h4 class="resume-item-details group" itemprop="description">{{ education.degree }} &bull; {{ education.year }}</h4>
           <h5 class="resume-item-details award-title" itemprop="description">{{ education.award }}</h5>
-          <p class="resume-item-copy" itemprop="description">
+          <div class="resume-item-copy" itemprop="description">
+            {% if education.awards %}
             <ul class="resume-item-list">
               {% for award in education.awards %}
               <li>{{ award.award }}</li>
               {% endfor %}
             </ul>
+            {% endif %}
 
-
-          <p class="resume-item-copy">{{ education.summary }}</p>
+            {% if education.summary %}
+            <div>{{ education.summary }}</div>
+            {% endif %}
+          </div>
         </div>
         {% endfor %}
       </section>
@@ -109,7 +113,7 @@
           <meta itemprop="creator" content="{{ site.resume_name }}" itemtype="http://schema.org/Person" />
           <h3 class="resume-item-title" itemprop="name">{% if project.url %}<a href="{{ project.url }}" itemprop="url">{{ project.project }}</a>{% else %}{{ project.project }}{% endif %}</h3>
           <h4 class="resume-item-details" itemprop="description">{{ project.role }}  &bull; {{ project.duration }}</h4>
-          <p class="resume-item-copy">{{ project.description }}</p>
+          <div class="resume-item-copy">{{ project.description }}</div>
         </div>
         {% endfor %}
 
@@ -127,7 +131,7 @@
         {% for skill in site.data.skills %}
         <div class="resume-item">
           <h4 class="resume-item-details">{{ skill.skill }}</h4>
-          <p class="resume-item-copy">{{ skill.description }}</p>
+          <div class="resume-item-copy">{{ skill.description }}</div>
         </div>
         {% endfor %}
 
@@ -147,7 +151,7 @@
         <div class="resume-item">
           <h3 class="resume-item-title" itemprop="award">{{ recognition.award }}</h3>
           <h4 class="resume-item-details">{{ recognition.organization }} &bull; {{ recognition.year }}</h4>
-          <p class="resume-item-copy">{{ recognition.summary }}</p>
+          <div class="resume-item-copy">{{ recognition.summary }}</div>
         </div>
         {% endfor %}
 
@@ -167,7 +171,7 @@
         <div class="resume-item" itemscope itemprop="memberOf" itemtype="http://schema.org/Organization">
           <h3 class="resume-item-title" itemprop="name">{% if association.url %}<a href="{{ association.url }}">{{ association.organization }}</a>{% else %}{{ association.organization }}{% endif %}</h3>
           <h4 class="resume-item-details" itemprop="description">{{ association.role }} &bull; {{ association.year }}</h4>
-          <p class="resume-item-copy">{{ association.summary }}</p>
+          <div class="resume-item-copy">{{ association.summary }}</div>
         </div>
         {% endfor %}
 

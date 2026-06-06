@@ -9,7 +9,7 @@ sass:
   style: compressed
 
 # Resume settings
-resume_avatar:                  "true"
+resume_avatar:                  "false"
 resume_name:                    "David Gitman"
 resume_title:                   "Technology Leader | Ecommerce, Cloud Infrastructure & AI Automation | Headless Commerce, DevOps & Growth Systems | Startup & Venture Ecosystems"
 
