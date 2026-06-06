@@ -1,6 +1,6 @@
 # Site settings
 title: "David Gitman's Resume"
-description: "Multi-Exit / Multi-Failure Ecommerce Technologist."
+description: "Technology Leader | Ecommerce, Cloud Infrastructure & AI Automation."
 
 # Build settings
 markdown: kramdown
@@ -11,24 +11,31 @@ sass:
 # Resume settings
 resume_avatar:                  "true"
 resume_name:                    "David Gitman"
-resume_title:                   "Multi-Exit, Multi-Failure Ecommerce Technologist"
+resume_title:                   "Technology Leader | Ecommerce, Cloud Infrastructure & AI Automation | Headless Commerce, DevOps & Growth Systems | Startup & Venture Ecosystems"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "david@gitman.net"
 
 # the next two items are used for schema itemprops in _layouts/resume.html
 resume_contact_telephone:       "(917) 723-2895"
-resume_contact_address:         "Raleigh-Durham-Chapel Hill Area"
+resume_contact_address:         "United States"
 
-resume_header_contact_info:     "Raleigh-Durham-Chapel Hill Area • (917) 723-2895 • david@gitman.net"
+resume_header_contact_info:     "United States • (917) 723-2895 • david@gitman.net"
 display_header_contact_info:    "true"
 
-resume_header_intro: "<p><b>Over 23 years of success deploying technical solutions that drive dramatic growth in sales, profit and market share</b></p>
-<p><b>Highly creative entrepreneur with a 23-year track record of innovation and success.</b> Strength in conceptualizing, recommending, architecting and aligning technology investments with evolving business, market and client needs.</p>
-<p><b>Background includes leading the design and development of solutions for such industry leaders</b> as MediaLink Worldwide, eBay, ToysRUs.com and TheGlobe.com complemented by leading e-commerce development firm from $400K in revenues to over $8.5M in 4 years.</p>
-<p><b>Successful in creating vision, identifying opportunities, building organizations, and delivering strong growth for start-up and established organizations</b> within intensively competitive Internet, eCommerce & New Media markets.</p>
-<p><b>Change agent with strong build out, transformation and turnaround leadership.</b> Skilled in establishing, revitalizing, integrating and optimizing technologies, systems, teams and processes to reduce costs and achieve operational excellence. <b>Practiced in managing offshore teams.</b></p>
-<p><b>Provide dedicated leadership in researching, evaluating and implementing emerging cloud computing, security, eCommerce, and business continuity</b> technologies, standards and best practices to mitigate risk, achieve compliance and ensure optimal uptime of core systems, services and environments.</p>"
+resume_header_intro: "<p>Hands-on technology and ecommerce leader with deep experience building and scaling digital commerce platforms, cloud infrastructure, AI-driven automation, and operational systems across startups and growth-stage businesses. My background spans ecommerce, cloud architecture, DevOps, marketplaces, growth systems, and venture-backed technology environments.</p>
+<p>I&rsquo;ve led and architected headless commerce platforms, cloud-native infrastructure, affiliate commerce ecosystems, monetization systems, and large-scale ecommerce operations across Shopify, Magento, AWS, GCP, React, Next.js, Node.js, Kubernetes, and modern AI-assisted development workflows. My experience spans both hands-on engineering execution and broader product, operational, and growth leadership.</p>
+<p>Over the course of my career, I&rsquo;ve scaled ecommerce businesses through SEO, CRO, marketplace distribution, infrastructure modernization, and operational automation. I&rsquo;ve designed APIs and middleware integrating ERPs, 3PLs, CRMs, payment providers, and fulfillment systems, while leading infrastructure initiatives focused on scalability, reliability, observability, and performance optimization.</p>
+<p>I&rsquo;ve also invested in and advised early-stage commerce and technology companies, supporting founders across ecommerce strategy, operational scaling, infrastructure, monetization, and technical execution across ecommerce, SaaS, marketplaces, creator monetization, and social commerce platforms.</p>
+<p>More recently, my focus has expanded into AI-driven development and workflow automation using ChatGPT, Claude, Gemini, GitHub Copilot, vector databases, RAG architectures, semantic retrieval pipelines, and agent-based automation systems for prototyping, operational tooling, ecommerce optimization, and workflow acceleration.</p>
+<p><b>Specialties include:</b></p>
+<ul class=\"resume-item-list\">
+<li>Ecommerce and marketplace platforms</li>
+<li>Cloud infrastructure and DevOps</li>
+<li>AI automation and workflow systems</li>
+<li>Headless commerce and scalable architectures</li>
+<li>Startup and high-growth technology environments</li>
+</ul>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
@@ -39,7 +46,7 @@ resume_looking_for_work:        "yes"
 # Decide which sections to use
 # comment out to hide
 resume_section_experience:      true
-# resume_section_education:       true
+resume_section_education:       true
 resume_section_projects:        true
 resume_section_skills:          true
 # resume_section_recognition:     true
