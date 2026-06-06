@@ -1,5 +1,18 @@
 # Associations
 
+# Triangle Tweener Fund
+- organization: Triangle Tweener Fund
+  role: Limited Partner
+  year: Jan, 2022 &mdash; Present
+  summary: >-
+    <ul class="resume-item-list">
+    <li>Limited partner in an index fund of early-stage technology startups in the
+    Research Triangle (Raleigh-Durham-Chapel Hill) region.</li>
+    <li>$1M ARR (or 10 people)</li>
+    <li>No larger than $80M ARR</li>
+    <li>Headquartered in the Research Triangle</li>
+    </ul>
+
 # Techstars
 - organization: Techstars
   role: Raleigh-Durham Startup Digest Curator
@@ -22,7 +35,7 @@
 # NYC Magento Merchant Group
 - organization: NYC Magento Merchant Group
   role: Co-Organizer
-  year: 2015 &mdash; Present
+  year: 2015 &mdash; 2018
   url: https://web.archive.org/web/20190125233944/http://www.meetup.com/NYC-Magento-Merchant-Group
   summary: >-
     NMMG is a local monthly meetup in New York City where we share all the latest
@@ -32,6 +45,6 @@
 # CodeBrooklyn
 - organization: CodeBrooklyn
   role: Volunteer
-  year: 2015 &mdash; Present
+  year: 2015 &mdash; 2018
   url: https://web.archive.org/web/20190125233944/http://www.codebrooklyn.org/
   summary: Hour of Code Data Analyst
