@@ -4,379 +4,323 @@
   position: Technical Advisor
   duration: Feb, 2017 &mdash; Present
   summary: >-
-    <ul class="resume-item-list">
-    <li>Technical advisor based in Portland, Maine.</li>
-    </ul>
+    <p>Technical advisor based in Portland, Maine.</p>
 
 # Chief Acceleration Officer
 - company: Accel Commerce
   position: Chief Acceleration Officer
   duration: Mar, 2017 &mdash; Present
   summary: >-
-    <ul class="resume-item-list">
-    <li>Chief Acceleration Officer based in Brooklyn, New York.</li>
-    </ul>
+    <p>Chief Acceleration Officer based in Brooklyn, New York.</p>
 
 # CTO / Technology Advisor
 - company: Because Ventures
   position: CTO / Technology Advisor
   duration: 2017 &mdash; Present
   summary: >-
-    <ul class="resume-item-list">
-    <li>Invested in and advised 24 early-stage commerce and technology companies
+    <p>Invested in and advised 24 early-stage commerce and technology companies
     including Cadence, Manifest Commerce, Composer, and Lola Olivia,
     supporting ecommerce strategy, operational scaling, platform architecture,
     and growth initiatives for businesses reaching $90M+ revenue, $28B+ trading
-    volume, 15M+ executed orders, and 97%+ merchant retention.</li>
-    <li>Led distributed cross-functional teams across engineering, product,
+    volume, 15M+ executed orders, and 97%+ merchant retention.</p>
+    <p>Led distributed cross-functional teams across engineering, product,
     operations, marketing, finance, and fulfillment spanning the United States,
     Ukraine, Israel, Armenia, India, and the Philippines, supporting software
     delivery, ecommerce operations, production support, and growth optimization
-    initiatives.</li>
-    <li>Designed and scaled headless ecommerce platforms across Shopify Plus,
+    initiatives.</p>
+    <p>Designed and scaled headless ecommerce platforms across Shopify Plus,
     Magento, React, Next.js, Node.js, and cloud-native architectures, building
     APIs, integrations, middleware, and automation workflows connecting ERPs,
-    3PLs, CRMs, payment providers, and fulfillment systems.</li>
-    <li>Architected and operated scalable AWS and GCP infrastructure utilizing
+    3PLs, CRMs, payment providers, and fulfillment systems.</p>
+    <p>Architected and operated scalable AWS and GCP infrastructure utilizing
     EC2, S3, CloudFront, EKS, RDS, ElastiCache, Terraform, Docker, Kubernetes,
     GitHub Actions, and Infrastructure-as-Code workflows supporting
-    high-availability ecommerce environments and large-scale traffic spikes.</li>
-    <li>Conducted hands-on AI R&amp;D and workflow automation using ChatGPT,
+    high-availability ecommerce environments and large-scale traffic spikes.</p>
+    <p>Conducted hands-on AI R&amp;D and workflow automation using ChatGPT,
     Claude, Gemini, GitHub Copilot, vector databases, RAG architectures,
     semantic retrieval pipelines, and agent-driven workflows supporting
     ecommerce optimization, operational tooling, and accelerated development
-    workflows.</li>
-    <li>Built ecommerce growth, SEO, CRO, and lifecycle marketing systems across
+    workflows.</p>
+    <p>Built ecommerce growth, SEO, CRO, and lifecycle marketing systems across
     paid search, paid social, affiliate ecosystems, and retention campaigns,
     increasing ecommerce conversion rates by 165% and driving 130K+ monthly
-    organic visitors across portfolio brands.</li>
-    </ul>
+    organic visitors across portfolio brands.</p>
 
 # Head Of eCommerce
 - company: Infinite Reality
   position: Head Of eCommerce
   duration: Sep, 2020 &mdash; Jun, 2022
   summary: >-
-    <ul class="resume-item-list">
-    <li>Led architecture, product strategy, and scaling for Infinite Reality&rsquo;s
+    <p>Led architecture, product strategy, and scaling for Infinite Reality&rsquo;s
     metaverse commerce ecosystem, enabling brands to sell physical and digital
     goods across Shopify, Magento, and BigCommerce-integrated environments;
     launched affiliate/referral commerce programs for brands including Fanatics,
     supported Sony Music Entertainment artist migrations to Shopify, and
     architected AWS Glue ETL pipelines for commerce catalog normalization and
-    distribution.</li>
-    <li>Architected headless commerce infrastructure and metaverse commerce
+    distribution.</p>
+    <p>Architected headless commerce infrastructure and metaverse commerce
     products enabling creators and brands to sell physical and digital goods
     without relying on traditional ecommerce platforms, developing custom catalog
     services, cart/checkout APIs, payment and fulfillment integrations, affiliate
     attribution systems, ETL workflows, and identity/account management across
-    ERP, PIM, 3PL, and digital fulfillment ecosystems.</li>
-    <li>Built and managed a scalable affiliate commerce catalog spanning 250+
+    ERP, PIM, 3PL, and digital fulfillment ecosystems.</p>
+    <p>Built and managed a scalable affiliate commerce catalog spanning 250+
     partner networks, architecting ETL pipelines ingesting APIs, affiliate feeds,
     and flat files to normalize, validate, and standardize product, pricing,
-    commission, and catalog data across disparate commerce ecosystems.</li>
-    <li>Architected creator monetization, wallet, and redemption systems supporting
+    commission, and catalog data across disparate commerce ecosystems.</p>
+    <p>Architected creator monetization, wallet, and redemption systems supporting
     mass payouts, digital gift cards, debit card/wallet products, and affiliate
     rewards, designing ledger-based balance management, payout orchestration,
     redemption workflows, KYC/identity verification, fraud/compliance controls,
-    reconciliation systems, and settlement operations.</li>
-    <li>Supported creator monetization and commerce infrastructure serving 6M+
+    reconciliation systems, and settlement operations.</p>
+    <p>Supported creator monetization and commerce infrastructure serving 6M+
     registered users and 1M+ monthly active users with high-volume engagement,
     affiliate commerce, micro-payment ledger tracking, and revenue-sharing models
-    across large-scale social and immersive commerce ecosystems.</li>
-    </ul>
+    across large-scale social and immersive commerce ecosystems.</p>
 
 # Chief Technology Officer
 - company: Cooper Square Ventures
   position: Chief Technology Officer
   duration: 2011 &mdash; 2021
   summary: >-
-    <ul class="resume-item-list">
-    <li>Identified, acquired, and scaled ecommerce businesses including Next Day
+    <p>Identified, acquired, and scaled ecommerce businesses including Next Day
     Auto Parts, Auto Parts Nerd, Woodbury Automotive Warehouse, Car Part Kings,
     Plumburs, and SaaS platform ChannelReply, transforming catalog-driven
     automotive aftermarket and plumbing operations into scalable Magento-based
     commerce platforms through ETL-driven catalog migration, marketplace
-    expansion, SEO/CRO optimization, and operational modernization initiatives.</li>
-    <li>Scaled ecommerce revenue from $400K to $8.5M ARR through SEO, CRO, catalog
+    expansion, SEO/CRO optimization, and operational modernization initiatives.</p>
+    <p>Scaled ecommerce revenue from $400K to $8.5M ARR through SEO, CRO, catalog
     expansion, and marketplace distribution initiatives, growing organic traffic to
     130K+ monthly visitors, improving ecommerce conversion rates by ~165%,
     scaling Magento infrastructure to 1.5M+ products and 2.5B+ landing pages,
     and building catalog normalization, supplier ingestion, fitment mapping,
     taxonomy, and marketplace feed-management systems supporting Amazon and eBay
-    marketplaces at scale.</li>
-    <li>Engineered and optimized high-scale Magento/LAMP ecommerce environments
+    marketplaces at scale.</p>
+    <p>Engineered and optimized high-scale Magento/LAMP ecommerce environments
     across distributed AWS infrastructure utilizing PHP, MySQL, Apache, Nginx,
     Redis, Memcached, Varnish, HHVM, Linux, Git, Bash, Pentaho ETL, and Symfony
     to support large-scale catalog operations, performance optimization, caching,
-    deployment automation, and production reliability.</li>
-    </ul>
+    deployment automation, and production reliability.</p>
 
 # Chief Operating Officer
 - company: MageMojo
   position: Chief Operating Officer
   duration: Jul, 2018 &mdash; Sep, 2018
   summary: >-
-    <ul class="resume-item-list">
-    <li>Chief Operating Officer based in Brooklyn, New York.</li>
-    </ul>
+    <p>Chief Operating Officer based in Brooklyn, New York.</p>
 
 # Chief Technology Officer
 - company: Cue Connect
   position: Chief Technology Officer
   duration: May, 2016 &mdash; Dec, 2016
   summary: >-
-    <ul class="resume-item-list">
-    <li>Chief Technology Officer based in New York, New York.</li>
-    </ul>
+    <p>Chief Technology Officer based in New York, New York.</p>
 
 # Chief Technology Officer
 - company: Vodyssey Group
   position: Chief Technology Officer
   duration: Nov, 2010 &mdash; Jul, 2011
   summary: >-
-    <ul class="resume-item-list">
-    <li>Chief Technology Officer based in New York, New York.</li>
-    </ul>
+    <p>Chief Technology Officer based in New York, New York.</p>
 
 # Consultant
 - company: MAP Digital, Inc.
   position: Consultant
   duration: Oct, 2010 &mdash; Jul, 2011
   summary: >-
-    <ul class="resume-item-list">
-    <li>Consulting engagement based in New York, New York.</li>
-    </ul>
+    <p>Consulting engagement based in New York, New York.</p>
 
 # Consultant
 - company: American Arbitration Association
   position: Consultant
   duration: Aug, 2010 &mdash; Mar, 2011
   summary: >-
-    <ul class="resume-item-list">
-    <li>Consulting engagement based in New York, New York.</li>
-    </ul>
+    <p>Consulting engagement based in New York, New York.</p>
 
 # Consultant
 - company: Synaptic Digital, a Definition 6 Company
   position: Consultant
   duration: Nov, 2009 &mdash; Apr, 2010
   summary: >-
-    <ul class="resume-item-list">
-    <li>Consulting engagement based in New York, New York.</li>
-    </ul>
+    <p>Consulting engagement based in New York, New York.</p>
 
 # Consultant
 - company: Patrizzi &amp; Co Auctioneers
   position: Consultant
   duration: Sep, 2009 &mdash; Feb, 2010
   summary: >-
-    <ul class="resume-item-list">
-    <li>Consulting engagement based in New York, New York.</li>
-    </ul>
+    <p>Consulting engagement based in New York, New York.</p>
 
 # Director of Operations and Infrastructure
 - company: MediaLink
   position: Director of Operations and Infrastructure
   duration: 2007 &mdash; 2009
   summary: >-
-    <ul class="resume-item-list">
-    <li>Recruited to lead IT transformation initiatives for a global video
+    <p>Recruited to lead IT transformation initiatives for a global video
     distribution platform serving 250,000+ media outlets across 190 countries,
     driving infrastructure modernization, operational scalability, compliance, and
-    high-availability systems initiatives.</li>
-    <li>Established technology strategy and operational frameworks supporting
+    high-availability systems initiatives.</p>
+    <p>Established technology strategy and operational frameworks supporting
     SOX compliance, ITIL-based service management, automation, virtualization,
     infrastructure consolidation, and large-scale systems modernization while
-    reducing downtime, operational overhead, and vendor costs.</li>
-    <li>Architected and centralized infrastructure operations across 8 global
+    reducing downtime, operational overhead, and vendor costs.</p>
+    <p>Architected and centralized infrastructure operations across 8 global
     locations into a tier-one co-location environment, consolidating 150 servers
     into 6 virtualized blade servers and modernizing storage, security, backup/
     recovery, change management, and production operations across multi-platform
-    enterprise environments.</li>
-    </ul>
+    enterprise environments.</p>
 
 # Director of Operations
 - company: Waterfall Mobile
   position: Director of Operations
   duration: Jun, 2006 &mdash; Oct, 2007
   summary: >-
-    <ul class="resume-item-list">
-    <li>Led operations for a mobile channel platform tackling cost, complexity, and
-    time barriers to managing mobile content.</li>
-    <li>Directed product portfolio including Msgme (www.msgme.com), a self-managed
+    <p>Led operations for a mobile channel platform tackling cost, complexity, and
+    time barriers to managing mobile content.</p>
+    <p>Directed product portfolio including Msgme (www.msgme.com), a self-managed
     mobile content sales and marketing platform for monetizing digital assets and
     adding mobile interactivity to online, print, broadcast, and in-venue marketing
-    campaigns.</li>
-    <li>Supported AlertU (www.alertu.com), an enterprise class SMS-based emergency
+    campaigns.</p>
+    <p>Supported AlertU (www.alertu.com), an enterprise class SMS-based emergency
     alerting system for schools, communities, organizations, enterprises, and
-    governments.</li>
-    </ul>
+    governments.</p>
 
 # Consultant
 - company: Contactual
   position: Consultant
   duration: Aug, 2006 &mdash; Jun, 2007
   summary: >-
-    <ul class="resume-item-list">
-    <li>Consulted on Contactual OnDemand, a subscription-based alternative to
-    traditional call center technologies.</li>
-    </ul>
+    <p>Consulted on Contactual OnDemand, a subscription-based alternative to
+    traditional call center technologies.</p>
 
 # Consultant
 - company: TrustedID
   position: Consultant
   duration: Jan, 2006 &mdash; May, 2006
   summary: >-
-    <ul class="resume-item-list">
-    <li>Consulted on consumer credit and personal information protection services
-    helping users manage and control access to their data.</li>
-    </ul>
+    <p>Consulted on consumer credit and personal information protection services
+    helping users manage and control access to their data.</p>
 
 # Consultant
 - company: Platform Learning
   position: Consultant
   duration: Sep, 2005 &mdash; Dec, 2005
   summary: >-
-    <ul class="resume-item-list">
-    <li>Provided program management services for educational software development.</li>
-    </ul>
+    <p>Provided program management services for educational software development.</p>
 
 # Co-Founder / Chief Technology Officer (CTO)
 - company: Digital Management Services
   position: Chief Technology Officer
   duration: Apr, 2004 &mdash; Aug, 2005
   summary: >-
-    <ul class="resume-item-list">
-    <li>Co-founded a managed service provider delivering custom hosted voice and
-    data services for small and medium sized businesses.</li>
-    <li>Defined strategic business plan, service offerings, delivery models, and
+    <p>Co-founded a managed service provider delivering custom hosted voice and
+    data services for small and medium sized businesses.</p>
+    <p>Defined strategic business plan, service offerings, delivery models, and
     operating infrastructure for professional and managed services across the
-    United States.</li>
-    <li>Consulted with clients on hosted VoIP, IT security, digital and wireless
+    United States.</p>
+    <p>Consulted with clients on hosted VoIP, IT security, digital and wireless
     infrastructure, storage, business continuity, applications, middleware, and
-    data warehousing solutions.</li>
-    <li>Built and managed 2 data centers providing integrated voice and data
-    services to 20 clients.</li>
-    <li>Instituted quality of service best practices, enabling the capture of Mean
-    Opinion Score ratings of 4+.</li>
-    <li>Led the design, installation, and management of custom network
+    data warehousing solutions.</p>
+    <p>Built and managed 2 data centers providing integrated voice and data
+    services to 20 clients.</p>
+    <p>Instituted quality of service best practices, enabling the capture of Mean
+    Opinion Score ratings of 4+.</p>
+    <p>Led the design, installation, and management of custom network
     infrastructures, data centers, network operations centers, security systems,
-    and office networks and Internet infrastructures.</li>
-    </ul>
+    and office networks and Internet infrastructures.</p>
 
 # Senior Network Engineer
 - company: The FeedRoom
   position: Senior Network Engineer
   duration: 2002 &mdash; 2004
   summary: >-
-    <ul class="resume-item-list">
-    <li>Managed and scaled infrastructure and production operations for a
+    <p>Managed and scaled infrastructure and production operations for a
     high-growth digital media and streaming company, supporting secure LAN/WAN
     environments, Linux/UNIX systems, Windows/Exchange platforms, and large-scale
-    broadcast infrastructure.</li>
-    <li>Designed and implemented security, networking, and systems management
+    broadcast infrastructure.</p>
+    <p>Designed and implemented security, networking, and systems management
     processes across routers, switches, firewalls, load balancers, SANs, and
-    production environments supporting high-availability streaming operations.</li>
-    <li>Led technical design and production support for high-profile internet
+    production environments supporting high-availability streaming operations.</p>
+    <p>Led technical design and production support for high-profile internet
     broadcast events including NCAA March Madness broadcasts for CBS SportsLine
-    and CSTV.</li>
-    </ul>
+    and CSTV.</p>
 
 # Senior Network Engineer
 - company: i-drive.com
   position: Senior Network Engineer
   duration: 2000 &dash; 2001
   summary: >-
-    <ul class="resume-item-list">
-    <li>Senior Network Engineer for online storage service based in San Francisco,
-    California.</li>
-    </ul>
+    <p>Senior Network Engineer for online storage service based in San Francisco,
+    California.</p>
 
 # Senior Network Engineer
 - company: eBay
   position: Senior Network Engineer
   duration: 2000
   summary: >-
-    <ul class="resume-item-list">
-    <li>Served as eBay&rsquo;s first Senior Network Engineer, administering
+    <p>Served as eBay&rsquo;s first Senior Network Engineer, administering
     Cisco-based infrastructure supporting 2,000 internal users and 64M+ site
     users while designing security, monitoring, and network management systems
-    across large-scale production environments.</li>
-    <li>Optimized infrastructure reliability to 99.999% uptime and led
+    across large-scale production environments.</p>
+    <p>Optimized infrastructure reliability to 99.999% uptime and led
     infrastructure auditing and integration efforts for two acquired companies
-    within the corporate environment.</li>
-    </ul>
+    within the corporate environment.</p>
 
 # Senior Network Engineer
 - company: Toys&quot;R&quot;Us
   position: Senior Network Engineer
   duration: 1999 &mdash; 2000
   summary: >-
-    <ul class="resume-item-list">
-    <li>Served as the first technical hire supporting the launch of ToysRUs.com,
+    <p>Served as the first technical hire supporting the launch of ToysRUs.com,
     architecting and building the ecommerce data center infrastructure, including
-    systems, security, applications, and operational procedures.</li>
-    <li>Implemented LAN/WAN and security infrastructure enabling the launch of
-    ToysRUs.com within three months.</li>
-    </ul>
+    systems, security, applications, and operational procedures.</p>
+    <p>Implemented LAN/WAN and security infrastructure enabling the launch of
+    ToysRUs.com within three months.</p>
 
 # Network Engineer
 - company: theGlobe.com
   position: Network Engineer
   duration: 1998 &mdash; 1999
   summary: >-
-    <ul class="resume-item-list">
-    <li>Assisted in designing and deploying infrastructure supporting the launch of
+    <p>Assisted in designing and deploying infrastructure supporting the launch of
     theGlobe.com, one of the earliest social media platforms and the company behind
-    one of the largest first-day IPO gains in market history.</li>
-    </ul>
+    one of the largest first-day IPO gains in market history.</p>
 
 # Systems Administrator
 - company: Inventure
   position: Systems Administrator
   duration: 1997 &dash; 1998
   summary: >-
-    <ul class="resume-item-list">
-    <li>Systems Administrator for financial analytic software development based in
-    New York, New York.</li>
-    </ul>
+    <p>Systems Administrator for financial analytic software development based in
+    New York, New York.</p>
 
 # Systems Administrator
 - company: Cyber Cafe
   position: Systems Administrator
   duration: 1997
   summary: >-
-    <ul class="resume-item-list">
-    <li>Systems Administrator for the first &ldquo;CyberCafe&rdquo; in New York.</li>
-    </ul>
+    <p>Systems Administrator for the first &ldquo;CyberCafe&rdquo; in New York.</p>
 
 # Founder / Principal
 - company: JewelryXChange.com
   position: Founder / Principal
   duration: 1996 &dash; 1997
   summary: >-
-    <ul class="resume-item-list">
-    <li>Founder and Principal of a jewelry e-commerce site based in New York, New York.</li>
-    </ul>
+    <p>Founder and Principal of a jewelry e-commerce site based in New York, New York.</p>
 
 # Systems Administrator
 - company: NP Systems
   position: Systems Administrator
   duration: Jan, 1996 &mdash; Jun, 1996
   summary: >-
-    <ul class="resume-item-list">
-    <li>Systems Administrator based in the New York City Metropolitan Area.</li>
-    <li>Design and implementation of 100-node Novell networks.</li>
-    <li>On-site troubleshooting and repair of networks.</li>
-    </ul>
+    <p>Systems Administrator based in the New York City Metropolitan Area.</p>
+    <p>Design and implementation of 100-node Novell networks.</p>
+    <p>On-site troubleshooting and repair of networks.</p>
 
 # Technical Support
 - company: earthcom.net
   position: Technical Support
   duration: 1995 &dash; 1996
   summary: >-
-    <ul class="resume-item-list">
-    <li>Technical support for the first Internet Service Provider in New York City,
-    based in Staten Island, New York.</li>
-    </ul>
+    <p>Technical support for the first Internet Service Provider in New York City,
+    based in Staten Island, New York.</p>

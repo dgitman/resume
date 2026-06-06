@@ -79,7 +79,7 @@
         {% for education in site.data.education %}
         <div class="resume-item" itemscope itemprop="alumniOf" itemtype="http://schema.org/CollegeOrUniversity">
           <h3 class="resume-item-title" itemprop="name">{{ education.uni }}</h3>
-          <h4 class="resume-item-details group" itemprop="description">{% if education.year and education.year != "" %}{{ education.degree }} &bull; {{ education.year }}{% else %}{{ education.degree }}{% endif %}</h4>
+          <h4 class="resume-item-details group" itemprop="description">{{ education.degree }} &bull; {{ education.year }}</h4>
           <h5 class="resume-item-details award-title" itemprop="description">{{ education.award }}</h5>
           <p class="resume-item-copy" itemprop="description">
             <ul class="resume-item-list">
@@ -146,12 +146,8 @@
         {% for recognition in site.data.recognitions %}
         <div class="resume-item">
           <h3 class="resume-item-title" itemprop="award">{{ recognition.award }}</h3>
-          {% if recognition.organization and recognition.organization != "" or recognition.year and recognition.year != "" %}
-          <h4 class="resume-item-details">{% if recognition.organization and recognition.organization != "" %}{{ recognition.organization }}{% endif %}{% if recognition.organization and recognition.organization != "" and recognition.year and recognition.year != "" %} &bull; {% endif %}{% if recognition.year and recognition.year != "" %}{{ recognition.year }}{% endif %}</h4>
-          {% endif %}
-          {% if recognition.summary and recognition.summary != "" %}
+          <h4 class="resume-item-details">{{ recognition.organization }} &bull; {{ recognition.year }}</h4>
           <p class="resume-item-copy">{{ recognition.summary }}</p>
-          {% endif %}
         </div>
         {% endfor %}
 
