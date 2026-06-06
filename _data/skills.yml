@@ -43,3 +43,13 @@
     SFTP, NNTP, NTP, NetBIOS, IMAP, SNMP, BGP, IRC, LDAP, HTTPS, ISAKMP,
     Syslog, RIP, RPC, DHCP, iSCSI, rsync, NFS, IPSec, RADIUS, RTMP, HSRP, SCCP,
     MGCP, SIP, Active Directory
+
+# Languages
+- skill: Languages
+  description: English (Native or Bilingual), Russian (Limited Working), Spanish
+    (Limited Working), Polish (Limited Working)
+
+# Certifications
+- skill: Certifications
+  description: Make Intermediate Certificate, Champion for Cloud, Magento Certified
+    Solution Specialist, AWS Certified Solutions Architect - Associate

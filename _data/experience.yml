@@ -352,6 +352,17 @@
   summary: >-
     Founder and Principal of a jewelry e-commerce site based in New York, New York.
 
+# Systems Administrator
+- company: NP Systems
+  position: Systems Administrator
+  duration: Jan, 1996 &mdash; Jun, 1996
+  summary: >-
+    New York City Metropolitan Area.
+    <ul class="resume-item-list">
+    <li>Design and implementation of 100-node Novell networks.</li>
+    <li>On-site troubleshooting and repair of networks.</li>
+    </ul>
+
 # Technical Support
 - company: earthcom.net
   position: Technical Support

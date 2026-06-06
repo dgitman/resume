@@ -146,8 +146,12 @@
         {% for recognition in site.data.recognitions %}
         <div class="resume-item">
           <h3 class="resume-item-title" itemprop="award">{{ recognition.award }}</h3>
-          <h4 class="resume-item-details">{{ recognition.organization }} &bull; {{ recognition.year }}</h4>
+          {% if recognition.organization and recognition.organization != "" or recognition.year and recognition.year != "" %}
+          <h4 class="resume-item-details">{% if recognition.organization and recognition.organization != "" %}{{ recognition.organization }}{% endif %}{% if recognition.organization and recognition.organization != "" and recognition.year and recognition.year != "" %} &bull; {% endif %}{% if recognition.year and recognition.year != "" %}{{ recognition.year }}{% endif %}</h4>
+          {% endif %}
+          {% if recognition.summary and recognition.summary != "" %}
           <p class="resume-item-copy">{{ recognition.summary }}</p>
+          {% endif %}
         </div>
         {% endfor %}
 

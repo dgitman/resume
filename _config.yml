@@ -14,13 +14,13 @@ resume_name:                    "David Gitman"
 resume_title:                   "Technology Leader | Ecommerce, Cloud Infrastructure & AI Automation | Headless Commerce, DevOps & Growth Systems | Startup & Venture Ecosystems"
 
 # used for the contact button in _layouts/resume.html
-resume_contact_email:           "david@gitman.net"
+resume_contact_email:           "david@because.ventures"
 
 # the next two items are used for schema itemprops in _layouts/resume.html
 resume_contact_telephone:       "(917) 723-2895"
 resume_contact_address:         "United States"
 
-resume_header_contact_info:     "United States • (917) 723-2895 • david@gitman.net"
+resume_header_contact_info:     "United States • (917) 723-2895 • david@because.ventures"
 display_header_contact_info:    "true"
 
 resume_header_intro: "<p>Hands-on technology and ecommerce leader with deep experience building and scaling digital commerce platforms, cloud infrastructure, AI-driven automation, and operational systems across startups and growth-stage businesses. My background spans ecommerce, cloud architecture, DevOps, marketplaces, growth systems, and venture-backed technology environments.</p>
@@ -49,7 +49,7 @@ resume_section_experience:      true
 resume_section_education:       true
 resume_section_projects:        true
 resume_section_skills:          true
-# resume_section_recognition:     true
+resume_section_recognition:     true
 # resume_section_links:           true
 resume_section_associations:    true
 # resume_section_interests:       true
