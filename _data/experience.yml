@@ -1,8 +1,32 @@
 # Jobs
+# Technical Advisor
+- company: Get Maine Lobster
+  position: Technical Advisor
+  duration: Feb, 2017 &mdash; Present
+  summary: Technical advisor based in Portland, Maine.
+
+# Chief Operating Officer
+- company: MageMojo
+  position: Chief Operating Officer
+  duration: Jul, 2018 &mdash; Sep, 2018
+  summary: Chief Operating Officer based in Brooklyn, New York.
+
+# Chief Acceleration Officer
+- company: Accel Commerce
+  position: Chief Acceleration Officer
+  duration: Mar, 2017 &mdash; Present
+  summary: Chief Acceleration Officer based in Brooklyn, New York.
+
+# Chief Technology Officer
+- company: Cue Connect
+  position: Chief Technology Officer
+  duration: May, 2016 &mdash; Dec, 2016
+  summary: Chief Technology Officer based in New York, New York.
+
 # Managing Partner | Chief Technology Officer (CTO)
 - company: Cooper Square Ventures
-  position: Managing Partner | Chief Technology Officer (CTO)
-  duration: Sep, 2011 &mdash; Present
+  position: Partner
+  duration: Aug, 2011 &mdash; Present
   summary: E-Commerce development firm providing a cost-efficient way to bring
     even the most extensive catalogs onto the web.<br> <br> Identify and
     purchase e-commerce properties and develop highly engaging, efficient
@@ -26,10 +50,40 @@
     conversion rate 165% by analyzing the data-driven insights of A/B
     testing.</li> </ul>
 
+# Chief Technology Officer
+- company: Vodyssey Group
+  position: Chief Technology Officer
+  duration: Nov, 2010 &mdash; Jul, 2011
+  summary: Chief Technology Officer based in New York, New York.
+
+# Consultant
+- company: MAP Digital, Inc.
+  position: Consultant
+  duration: Oct, 2010 &mdash; Jul, 2011
+  summary: Consulting engagement based in New York, New York.
+
+# Consultant
+- company: American Arbitration Association
+  position: Consultant
+  duration: Aug, 2010 &mdash; Mar, 2011
+  summary: Consulting engagement based in New York, New York.
+
+# Consultant
+- company: Synaptic Digital, a Definition 6 Company
+  position: Consultant
+  duration: Nov, 2009 &mdash; Apr, 2010
+  summary: Consulting engagement based in New York, New York.
+
+# Consultant
+- company: Patrizzi &amp; Co Auctioneers
+  position: Consultant
+  duration: Sep, 2009 &mdash; Feb, 2010
+  summary: Consulting engagement based in New York, New York.
+
 # Director of Infrastructure and Operations
 - company: Medialink Worldwide
-  position: Director of Infrastructure and Operations
-  duration: 2007 &dash; 2009
+  position: Director of Operations and Infrastructure
+  duration: Oct, 2007 &mdash; Apr, 2009
   summary: >-
     Recruited to drive a major transformation of IT organization and eliminate
     downtime issues, meet regulatory requirements, and effectively align
@@ -74,11 +128,51 @@
     transitioned Medialink&rsquo;s proprietary Teletrax platform to Philips
     environment following acquisition.</li> </ul>
 
-# Co-Founder / Chief Technology Officer (CTO)
-- company: Digital Managment Services
-  position: Co-Founder / Chief Technology Officer (CTO)
-  duration: 2004 &dash; 2006
+# Director of Operations
+- company: Waterfall Mobile
+  position: Director of Operations
+  duration: Jun, 2006 &mdash; Oct, 2007
   summary: >-
+    Waterfall Mobile is creating the new standard for controlling the mobile
+    channel by tackling the greatest barriers to managing mobile content&mdash;cost,
+    complexity, time. Waterfall&rsquo;s product portfolio includes Msgme
+    (www.msgme.com), a self-managed mobile content sales and marketing platform
+    which allows users to monetize their digital assets and instantly add mobile
+    interactivity to online, print, broadcast or in-venue marketing campaigns;
+    and AlertU (www.alertu.com), an enterprise class SMS-based emergency
+    alerting system for schools, communities, organizations, enterprises and
+    governments.
+
+# Consultant
+- company: Contactual
+  position: Consultant
+  duration: Aug, 2006 &mdash; Jun, 2007
+  summary: >-
+    Contactual OnDemand provides the most reliable, full featured,
+    subscription-based alternative to traditional call center technologies.
+
+# Consultant
+- company: TrustedID
+  position: Consultant
+  duration: Jan, 2006 &mdash; May, 2006
+  summary: >-
+    TrustedID provides consumers with the power and resources to manage and
+    protect their credit and personal information, and who has access to that
+    information.
+
+# Consultant
+- company: Platform Learning
+  position: Consultant
+  duration: Sep, 2005 &mdash; Dec, 2005
+  summary: >-
+    Provided program management services for educational software development.
+
+# Co-Founder / Chief Technology Officer (CTO)
+- company: Digital Management Services
+  position: Chief Technology Officer
+  duration: Apr, 2004 &mdash; Aug, 2005
+  summary: >-
+    Managed Service Provider for small and medium sized businesses.<br> <br>
     Launched an entrepreneurial venture to provide custom hosted voice / data
     services, and value-driven technology solutions to clients throughout the
     United States.<br> <br> Defined strategic business plan and growth strategy,
@@ -119,6 +213,14 @@
     Sportline and CSTV.</li> </ul>
 
 # Senior Network Engineer
+- company: i-drive.com
+  position: Senior Network Engineer
+  duration: 2000 &dash; 2001
+  summary: >-
+    Senior Network Engineer for online storage service based in San Francisco,
+    California.
+
+# Senior Network Engineer
 - company: eBay
   position: Senior Network Engineer
   duration: 2000
@@ -145,3 +247,43 @@
     eBusiness site, including systems, security, applications, and policies and
     procedures.</li> <li>  Implemented LAN / WAN and security infrastructure to
     enable the launch of ToysRUs.com within 3 months.</li> </ul>
+
+# Network Engineer
+- company: theGlobe.com
+  position: Network Engineer
+  duration: 1998 &dash; 1999
+  summary: >-
+    theGlobe.com was an internet startup founded in 1994 by Cornell students
+    Stephan Paternot and Todd Krizelman. A social networking service,
+    theGlobe.com made headlines by going public on November 13, 1998 and posting
+    the largest first day gain of any IPO in history up to that date.
+
+# Systems Administrator
+- company: Inventure
+  position: Systems Administrator
+  duration: 1997 &dash; 1998
+  summary: >-
+    Systems Administrator for financial analytic software development based in
+    New York, New York.
+
+# Systems Administrator
+- company: Cyber Cafe
+  position: Systems Administrator
+  duration: 1997
+  summary: >-
+    Systems Administrator for the first &ldquo;CyberCafe&rdquo; in New York.
+
+# Founder / Principal
+- company: JewelryXChange.com
+  position: Founder / Principal
+  duration: 1996 &dash; 1997
+  summary: >-
+    Founder and Principal of a jewelry e-commerce site based in New York, New York.
+
+# Technical Support
+- company: earthcom.net
+  position: Technical Support
+  duration: 1995 &dash; 1996
+  summary: >-
+    Technical support for the first Internet Service Provider in New York City,
+    based in Staten Island, New York.
