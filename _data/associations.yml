@@ -1,5 +1,34 @@
 # Associations
 
+# Techstars
+- organization: Techstars
+  role: Raleigh-Durham Startup Digest Curator
+  year: May, 2019 &mdash; Present
+  summary: >-
+    <ul class="resume-item-list">
+    <li>Curate the Raleigh-Durham Startup Digest weekly email that brings the
+    best in local startup events and resources.</li>
+    <li>Subscribe to Techstars Startup Digest Raleigh-Durham at
+    https://read.letterhead.email/techstars-raleigh-durham</li>
+    </ul>
+
+- organization: Techstars
+  role: Raleigh-Durham Startup Week Organizer
+  year: Jun, 2019 &mdash; Mar, 2020
+  summary: >-
+    Organized a Startup Week celebration of entrepreneurship and the people
+    shaping the entrepreneurial ecosystem in Raleigh-Durham.
+
+# NYC Magento Merchant Group
+- organization: NYC Magento Merchant Group
+  role: Co-Organizer
+  year: 2015 &mdash; Present
+  url: https://web.archive.org/web/20190125233944/http://www.meetup.com/NYC-Magento-Merchant-Group
+  summary: >-
+    NMMG is a local monthly meetup in New York City where we share all the latest
+    tips and tricks for dat donut lifestyle. I organize the group, and typically
+    eat most of the donuts.
+
 # CodeBrooklyn
 - organization: CodeBrooklyn
   role: Volunteer
