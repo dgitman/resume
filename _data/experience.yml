@@ -177,8 +177,15 @@
   duration: Aug, 2010 &mdash; Mar, 2011
   location: New York, New York
 
+# Chief Executive Officer / Co-Founder
+- company: Involve Media
+  sort_start: 200902
+  sort_end: 200909
+  position: Chief Executive Officer / Co-Founder
+  duration: Feb, 2009 &mdash; Sep, 2009
+
 # Consultant
-- company: Synaptic Digital, a Definition 6 Company
+- company: Synaptic Digital, (The News Market)
   sort_start: 200911
   sort_end: 201004
   position: Consultant
@@ -310,10 +317,10 @@
 
 # Senior Network Engineer
 - company: i-drive.com
-  sort_start: 200001
-  sort_end: 200112
+  sort_start: 200101
+  sort_end: 200109
   position: Senior Network Engineer
-  duration: 2000 &dash; 2001
+  duration: Jan, 2001 &mdash; Sep, 2001
   location: San Francisco, California
   summary: >-
     <p>Senior Network Engineer for online storage service.</p>
