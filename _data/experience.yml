@@ -392,10 +392,10 @@
 
 # Systems Administrator
 - company: NP Systems
-  sort_start: 199611
-  sort_end: 199702
+  sort_start: 199601
+  sort_end: 199606
   position: Systems Administrator
-  duration: Nov, 1996 &mdash; Feb, 1997
+  duration: Jan, 1996 &mdash; Jun, 1996
   location: Staten Island, New York
   summary: >-
     <p>Design and implementation of 100-node Novell networks.</p>
