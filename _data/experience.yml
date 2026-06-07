@@ -104,8 +104,14 @@
   position: Chief Ignition Officer
   duration: Jul, 2020 &mdash; Dec, 2022
   location: Raleigh-Durham-Chapel Hill Area
-  summary: >-
-    <p>Chief Ignition Officer.</p>
+
+# Chief Technology Officer / Co-Founder
+- company: Scalene Group
+  sort_start: 201904
+  sort_end: 202101
+  position: Chief Technology Officer / Co-Founder
+  duration: Apr, 2019 &mdash; Jan, 2021
+  location: Raleigh-Durham-Chapel Hill Area
 
 # Chief Operating Officer
 - company: MageMojo
@@ -114,8 +120,6 @@
   position: Chief Operating Officer
   duration: Jul, 2018 &mdash; Sep, 2018
   location: Brooklyn, New York
-  summary: >-
-    <p>Chief Operating Officer.</p>
 
 # Chief Acceleration Officer
 - company: Accel Commerce
@@ -124,8 +128,6 @@
   position: Chief Acceleration Officer
   duration: Mar, 2017 &mdash; Nov, 2018
   location: Brooklyn, New York
-  summary: >-
-    <p>Chief Acceleration Officer.</p>
 
 # Technical Advisor
 - company: Get Maine Lobster
@@ -134,8 +136,6 @@
   position: Technical Advisor
   duration: Feb, 2017 &mdash; Jun, 2019
   location: Portland, Maine (Remote)
-  summary: >-
-    <p>Technical advisor.</p>
 
 # Chief Technology Officer
 - company: Cue Connect
@@ -144,8 +144,6 @@
   position: Chief Technology Officer
   duration: May, 2016 &mdash; Dec, 2016
   location: New York, New York
-  summary: >-
-    <p>Chief Technology Officer.</p>
 
 # Chief Technology Officer
 - company: Vodyssey Group
@@ -154,8 +152,6 @@
   position: Chief Technology Officer
   duration: Nov, 2010 &mdash; Jul, 2011
   location: New York, New York
-  summary: >-
-    <p>Chief Technology Officer.</p>
 
 # Consultant
 - company: MAP Digital, Inc.
@@ -164,8 +160,6 @@
   position: Consultant
   duration: Oct, 2010 &mdash; Jul, 2011
   location: New York, New York
-  summary: >-
-    <p>Consulting engagement.</p>
 
 # Consultant
 - company: American Arbitration Association
@@ -174,8 +168,6 @@
   position: Consultant
   duration: Aug, 2010 &mdash; Mar, 2011
   location: New York, New York
-  summary: >-
-    <p>Consulting engagement.</p>
 
 # Consultant
 - company: Synaptic Digital, a Definition 6 Company
@@ -184,8 +176,6 @@
   position: Consultant
   duration: Nov, 2009 &mdash; Apr, 2010
   location: New York, New York
-  summary: >-
-    <p>Consulting engagement.</p>
 
 # Consultant
 - company: Patrizzi &amp; Co Auctioneers
@@ -194,8 +184,6 @@
   position: Consultant
   duration: Sep, 2009 &mdash; Feb, 2010
   location: New York, New York
-  summary: >-
-    <p>Consulting engagement.</p>
 
 # Director of Operations and Infrastructure
 - company: MediaLink
