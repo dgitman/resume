@@ -405,6 +405,7 @@
 - company: Planet Earth Communications (earthcom.net)
   sort_start: 199601
   sort_end: 199606
+  sort_last: true
   position: Technical Support
   duration: Jan, 1996 &mdash; Jun, 1996
   location: Staten Island, New York
