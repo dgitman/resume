@@ -56,7 +56,9 @@
           <h2>Experience</h2>
         </header>
 
-        {% for job in site.data.experience %}
+        {% assign jobs = site.data.experience | sort: 'sort_end' %}
+        {% assign jobs = jobs | sort: 'sort_start' | reverse %}
+        {% for job in jobs %}
         <div class="resume-item" itemscope itemprop="worksFor" itemtype="http://schema.org/Organization">
           <h3 class="resume-item-title" itemprop="name">{{ job.company }}</h3>
           <h4 class="resume-item-details" itemprop="description">{{ job.position }} &bull; {{ job.duration }}</h4>

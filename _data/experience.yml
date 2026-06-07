@@ -1,27 +1,8 @@
 # Jobs
-# Chief Ignition Officer
-- company: Igniterate
-  position: Chief Ignition Officer
-  duration: Jul, 2020 &mdash; Dec, 2022
-  summary: >-
-    <p>Chief Ignition Officer.</p>
-
-# Technical Advisor
-- company: Get Maine Lobster
-  position: Technical Advisor
-  duration: Feb, 2017 &mdash; Jun, 2019
-  summary: >-
-    <p>Technical advisor based in Portland, Maine.</p>
-
-# Chief Acceleration Officer
-- company: Accel Commerce
-  position: Chief Acceleration Officer
-  duration: Mar, 2017 &mdash; Nov, 2018
-  summary: >-
-    <p>Chief Acceleration Officer based in Brooklyn, New York.</p>
-
 # CTO / Technology Advisor
 - company: Because Ventures (Igniterate Fund)
+  sort_start: 202101
+  sort_end: 999912
   position: CTO / Technology Advisor
   duration: Jan, 2021 &mdash; Present
   summary: >-
@@ -55,6 +36,8 @@
 
 # Head Of eCommerce
 - company: Infinite Reality
+  sort_start: 202009
+  sort_end: 202206
   position: Head Of eCommerce
   duration: Sep, 2020 &mdash; Jun, 2022
   summary: >-
@@ -87,6 +70,8 @@
 
 # Chief Technology Officer
 - company: Cooper Square Ventures
+  sort_start: 201101
+  sort_end: 202112
   position: Chief Technology Officer
   duration: 2011 &mdash; 2021
   summary: >-
@@ -109,15 +94,46 @@
     to support large-scale catalog operations, performance optimization, caching,
     deployment automation, and production reliability.</p>
 
+# Chief Ignition Officer
+- company: Igniterate
+  sort_start: 202007
+  sort_end: 202212
+  position: Chief Ignition Officer
+  duration: Jul, 2020 &mdash; Dec, 2022
+  summary: >-
+    <p>Chief Ignition Officer.</p>
+
 # Chief Operating Officer
 - company: MageMojo
+  sort_start: 201807
+  sort_end: 201809
   position: Chief Operating Officer
   duration: Jul, 2018 &mdash; Sep, 2018
   summary: >-
     <p>Chief Operating Officer based in Brooklyn, New York.</p>
 
+# Chief Acceleration Officer
+- company: Accel Commerce
+  sort_start: 201703
+  sort_end: 201811
+  position: Chief Acceleration Officer
+  duration: Mar, 2017 &mdash; Nov, 2018
+  summary: >-
+    <p>Chief Acceleration Officer based in Brooklyn, New York.</p>
+
+# Technical Advisor
+- company: Get Maine Lobster
+  sort_start: 201702
+  sort_end: 201906
+  position: Technical Advisor
+  duration: Feb, 2017 &mdash; Jun, 2019
+  summary: >-
+    <p>Technical advisor based in Portland, Maine.</p>
+
 # Chief Technology Officer
 - company: Cue Connect
+  sort_start: 201605
+  sort_end: 201612
   position: Chief Technology Officer
   duration: May, 2016 &mdash; Dec, 2016
   summary: >-
@@ -125,6 +141,8 @@
 
 # Chief Technology Officer
 - company: Vodyssey Group
+  sort_start: 201011
+  sort_end: 201107
   position: Chief Technology Officer
   duration: Nov, 2010 &mdash; Jul, 2011
   summary: >-
@@ -132,6 +150,8 @@
 
 # Consultant
 - company: MAP Digital, Inc.
+  sort_start: 201010
+  sort_end: 201107
   position: Consultant
   duration: Oct, 2010 &mdash; Jul, 2011
   summary: >-
@@ -139,6 +159,8 @@
 
 # Consultant
 - company: American Arbitration Association
+  sort_start: 201008
+  sort_end: 201103
   position: Consultant
   duration: Aug, 2010 &mdash; Mar, 2011
   summary: >-
@@ -146,6 +168,8 @@
 
 # Consultant
 - company: Synaptic Digital, a Definition 6 Company
+  sort_start: 200911
+  sort_end: 201004
   position: Consultant
   duration: Nov, 2009 &mdash; Apr, 2010
   summary: >-
@@ -153,6 +177,8 @@
 
 # Consultant
 - company: Patrizzi &amp; Co Auctioneers
+  sort_start: 200909
+  sort_end: 201002
   position: Consultant
   duration: Sep, 2009 &mdash; Feb, 2010
   summary: >-
@@ -160,6 +186,8 @@
 
 # Director of Operations and Infrastructure
 - company: MediaLink
+  sort_start: 200701
+  sort_end: 200912
   position: Director of Operations and Infrastructure
   duration: 2007 &mdash; 2009
   summary: >-
@@ -179,6 +207,8 @@
 
 # Director of Operations
 - company: Waterfall Mobile
+  sort_start: 200606
+  sort_end: 200710
   position: Director of Operations
   duration: Jun, 2006 &mdash; Oct, 2007
   summary: >-
@@ -194,6 +224,8 @@
 
 # Consultant
 - company: Contactual
+  sort_start: 200608
+  sort_end: 200706
   position: Consultant
   duration: Aug, 2006 &mdash; Jun, 2007
   summary: >-
@@ -202,6 +234,8 @@
 
 # Consultant
 - company: TrustedID
+  sort_start: 200601
+  sort_end: 200605
   position: Consultant
   duration: Jan, 2006 &mdash; May, 2006
   summary: >-
@@ -210,6 +244,8 @@
 
 # Consultant
 - company: Platform Learning
+  sort_start: 200509
+  sort_end: 200512
   position: Consultant
   duration: Sep, 2005 &mdash; Dec, 2005
   summary: >-
@@ -217,6 +253,8 @@
 
 # Co-Founder / Chief Technology Officer (CTO)
 - company: Digital Management Services
+  sort_start: 200404
+  sort_end: 200508
   position: Chief Technology Officer
   duration: Apr, 2004 &mdash; Aug, 2005
   summary: >-
@@ -238,6 +276,8 @@
 
 # Senior Network Engineer
 - company: The FeedRoom
+  sort_start: 200201
+  sort_end: 200412
   position: Senior Network Engineer
   duration: 2002 &mdash; 2004
   summary: >-
@@ -254,6 +294,8 @@
 
 # Senior Network Engineer
 - company: i-drive.com
+  sort_start: 200001
+  sort_end: 200112
   position: Senior Network Engineer
   duration: 2000 &dash; 2001
   summary: >-
@@ -262,6 +304,8 @@
 
 # Senior Network Engineer
 - company: eBay
+  sort_start: 200001
+  sort_end: 200012
   position: Senior Network Engineer
   duration: 2000
   summary: >-
@@ -275,6 +319,8 @@
 
 # Senior Network Engineer
 - company: Toys&quot;R&quot;Us
+  sort_start: 199901
+  sort_end: 200012
   position: Senior Network Engineer
   duration: 1999 &mdash; 2000
   summary: >-
@@ -286,6 +332,8 @@
 
 # Network Engineer
 - company: theGlobe.com
+  sort_start: 199801
+  sort_end: 199912
   position: Network Engineer
   duration: 1998 &mdash; 1999
   summary: >-
@@ -295,6 +343,8 @@
 
 # Systems Administrator
 - company: Inventure
+  sort_start: 199701
+  sort_end: 199812
   position: Systems Administrator
   duration: 1997 &dash; 1998
   summary: >-
@@ -303,6 +353,8 @@
 
 # Systems Administrator
 - company: Cyber Cafe
+  sort_start: 199701
+  sort_end: 199712
   position: Systems Administrator
   duration: 1997
   summary: >-
@@ -310,6 +362,8 @@
 
 # Founder / Principal
 - company: JewelryXChange.com
+  sort_start: 199601
+  sort_end: 199712
   position: Founder / Principal
   duration: 1996 &dash; 1997
   summary: >-
@@ -317,6 +371,8 @@
 
 # Systems Administrator
 - company: NP Systems
+  sort_start: 199601
+  sort_end: 199606
   position: Systems Administrator
   duration: Jan, 1996 &mdash; Jun, 1996
   summary: >-
@@ -326,6 +382,8 @@
 
 # Technical Support
 - company: earthcom.net
+  sort_start: 199501
+  sort_end: 199612
   position: Technical Support
   duration: 1995 &dash; 1996
   summary: >-
