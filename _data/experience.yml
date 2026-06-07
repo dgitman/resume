@@ -362,10 +362,10 @@
 
 # Systems Administrator
 - company: Inventure
-  sort_start: 199701
-  sort_end: 199812
+  sort_start: 199711
+  sort_end: 199808
   position: Systems Administrator
-  duration: 1997 &dash; 1998
+  duration: Nov, 1997 &mdash; Aug, 1998
   location: New York, New York
   summary: >-
     <p>Systems Administrator for financial analytic software development.</p>
