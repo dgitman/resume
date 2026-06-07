@@ -1,10 +1,10 @@
 # Jobs
 # CTO / Technology Advisor
 - company: Because Ventures (Igniterate Fund)
-  sort_start: 202101
+  sort_start: 201701
   sort_end: 999912
   position: CTO / Technology Advisor
-  duration: Jan, 2021 &mdash; Present
+  duration: Jan, 2017 &mdash; Present
   location: New York, New York
   summary: >-
     <p>Invested in and advised 24 early-stage commerce and technology companies
@@ -70,12 +70,12 @@
     affiliate commerce, micro-payment ledger tracking, and revenue-sharing models
     across large-scale social and immersive commerce ecosystems.</p>
 
-# Chief Technology Officer
+# Chief Technology Officer / Co-Founder
 - company: Cooper Square Ventures
-  sort_start: 201101
-  sort_end: 202112
-  position: Chief Technology Officer
-  duration: 2011 &mdash; 2021
+  sort_start: 201108
+  sort_end: 202106
+  position: Chief Technology Officer / Co-Founder
+  duration: Aug, 2011 &mdash; Jun, 2021
   location: New York, New York
   summary: >-
     <p>Identified, acquired, and scaled ecommerce businesses including Next Day
@@ -97,11 +97,19 @@
     to support large-scale catalog operations, performance optimization, caching,
     deployment automation, and production reliability.</p>
 
-# Chief Ignition Officer
+# Chief Technology Officer / Founder
+- company: ChannelReply
+  sort_start: 201405
+  sort_end: 202106
+  position: Chief Technology Officer / Founder
+  duration: May, 2014 &mdash; Jun, 2021
+  location: New York, New York
+
+# Chief Ignition Officer / Founder
 - company: Igniterate
   sort_start: 202007
   sort_end: 202212
-  position: Chief Ignition Officer
+  position: Chief Ignition Officer / Founder
   duration: Jul, 2020 &mdash; Dec, 2022
   location: Raleigh-Durham-Chapel Hill Area
 
@@ -121,11 +129,11 @@
   duration: Jul, 2018 &mdash; Sep, 2018
   location: Brooklyn, New York
 
-# Chief Acceleration Officer
+# Chief Acceleration Officer / Founder
 - company: Accel Commerce
   sort_start: 201703
   sort_end: 201811
-  position: Chief Acceleration Officer
+  position: Chief Acceleration Officer / Founder
   duration: Mar, 2017 &mdash; Nov, 2018
   location: Brooklyn, New York
 
@@ -187,10 +195,10 @@
 
 # Director of Operations and Infrastructure
 - company: MediaLink
-  sort_start: 200701
-  sort_end: 200912
+  sort_start: 200711
+  sort_end: 200904
   position: Director of Operations and Infrastructure
-  duration: 2007 &mdash; 2009
+  duration: Nov, 2007 &mdash; Apr, 2009
   location: New York, New York
   summary: >-
     <p>Recruited to lead IT transformation initiatives for a global video
@@ -210,9 +218,9 @@
 # Director of Operations
 - company: Waterfall Mobile
   sort_start: 200606
-  sort_end: 200710
+  sort_end: 200711
   position: Director of Operations
-  duration: Jun, 2006 &mdash; Oct, 2007
+  duration: Jun, 2006 &mdash; Nov, 2007
   location: San Francisco, California
   summary: >-
     <p>Led operations for a mobile channel platform tackling cost, complexity, and
@@ -284,9 +292,9 @@
 # Senior Network Engineer
 - company: The FeedRoom
   sort_start: 200201
-  sort_end: 200412
+  sort_end: 200403
   position: Senior Network Engineer
-  duration: 2002 &mdash; 2004
+  duration: Jan, 2002 &mdash; Mar, 2004
   location: New York, New York
   summary: >-
     <p>Managed and scaled infrastructure and production operations for a
@@ -312,10 +320,10 @@
 
 # Senior Network Engineer
 - company: eBay
-  sort_start: 200001
-  sort_end: 200012
+  sort_start: 200005
+  sort_end: 200011
   position: Senior Network Engineer
-  duration: 2000
+  duration: May, 2000 &mdash; Nov, 2000
   location: San Jose, California
   summary: >-
     <p>Served as eBay&rsquo;s first Senior Network Engineer, administering
@@ -328,10 +336,10 @@
 
 # Senior Network Engineer
 - company: Toys&quot;R&quot;Us
-  sort_start: 199901
-  sort_end: 200012
+  sort_start: 199902
+  sort_end: 200003
   position: Senior Network Engineer
-  duration: 1999 &mdash; 2000
+  duration: Feb, 1999 &mdash; Mar, 2000
   location: Woodcliff Lake, New Jersey
   summary: >-
     <p>Served as the first technical hire supporting the launch of ToysRUs.com,
@@ -342,10 +350,10 @@
 
 # Network Engineer
 - company: theGlobe.com
-  sort_start: 199801
-  sort_end: 199912
+  sort_start: 199808
+  sort_end: 199901
   position: Network Engineer
-  duration: 1998 &mdash; 1999
+  duration: Aug, 1998 &mdash; Jan, 1999
   location: New York, New York
   summary: >-
     <p>Assisted in designing and deploying infrastructure supporting the launch of
@@ -364,41 +372,41 @@
 
 # Systems Administrator
 - company: Cyber Cafe
-  sort_start: 199701
-  sort_end: 199712
+  sort_start: 199706
+  sort_end: 199711
   position: Systems Administrator
-  duration: 1997
+  duration: Jun, 1997 &mdash; Nov, 1997
   location: New York, New York
   summary: >-
     <p>Systems Administrator for the first &ldquo;CyberCafe&rdquo; in New York.</p>
 
 # Founder / Principal
 - company: JewelryXChange.com
-  sort_start: 199601
-  sort_end: 199712
+  sort_start: 199611
+  sort_end: 199702
   position: Founder / Principal
-  duration: 1996 &dash; 1997
+  duration: Nov, 1996 &mdash; Feb, 1997
   location: New York, New York
   summary: >-
     <p>Founder and Principal of a jewelry e-commerce site.</p>
 
 # Systems Administrator
 - company: NP Systems
-  sort_start: 199601
-  sort_end: 199606
+  sort_start: 199611
+  sort_end: 199702
   position: Systems Administrator
-  duration: Jan, 1996 &mdash; Jun, 1996
+  duration: Nov, 1996 &mdash; Feb, 1997
   location: Staten Island, New York
   summary: >-
     <p>Design and implementation of 100-node Novell networks.</p>
     <p>On-site troubleshooting and repair of networks.</p>
 
 # Technical Support
-- company: earthcom.net
-  sort_start: 199501
-  sort_end: 199612
+- company: Planet Earth Communications (earthcom.net)
+  sort_start: 199601
+  sort_end: 199606
   position: Technical Support
-  duration: 1995 &dash; 1996
+  duration: Jan, 1996 &mdash; Jun, 1996
   location: Staten Island, New York
   summary: >-
     <p>Technical support for the first Internet Service Provider in New York City.</p>
