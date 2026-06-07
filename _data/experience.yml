@@ -5,6 +5,7 @@
   sort_end: 999912
   position: CTO / Technology Advisor
   duration: Jan, 2021 &mdash; Present
+  location: New York, New York
   summary: >-
     <p>Invested in and advised 24 early-stage commerce and technology companies
     including Cadence, Manifest Commerce, Composer, and Lola Olivia,
@@ -40,6 +41,7 @@
   sort_end: 202206
   position: Head Of eCommerce
   duration: Sep, 2020 &mdash; Jun, 2022
+  location: Norwalk, Connecticut (Remote)
   summary: >-
     <p>Led architecture, product strategy, and scaling for Infinite Reality&rsquo;s
     metaverse commerce ecosystem, enabling brands to sell physical and digital
@@ -74,6 +76,7 @@
   sort_end: 202112
   position: Chief Technology Officer
   duration: 2011 &mdash; 2021
+  location: New York, New York
   summary: >-
     <p>Identified, acquired, and scaled ecommerce businesses including Next Day
     Auto Parts, Auto Parts Nerd, Woodbury Automotive Warehouse, Car Part Kings,
@@ -100,6 +103,7 @@
   sort_end: 202212
   position: Chief Ignition Officer
   duration: Jul, 2020 &mdash; Dec, 2022
+  location: Raleigh-Durham-Chapel Hill Area
   summary: >-
     <p>Chief Ignition Officer.</p>
 
@@ -109,8 +113,9 @@
   sort_end: 201809
   position: Chief Operating Officer
   duration: Jul, 2018 &mdash; Sep, 2018
+  location: Brooklyn, New York
   summary: >-
-    <p>Chief Operating Officer based in Brooklyn, New York.</p>
+    <p>Chief Operating Officer.</p>
 
 # Chief Acceleration Officer
 - company: Accel Commerce
@@ -118,8 +123,9 @@
   sort_end: 201811
   position: Chief Acceleration Officer
   duration: Mar, 2017 &mdash; Nov, 2018
+  location: Brooklyn, New York
   summary: >-
-    <p>Chief Acceleration Officer based in Brooklyn, New York.</p>
+    <p>Chief Acceleration Officer.</p>
 
 # Technical Advisor
 - company: Get Maine Lobster
@@ -127,8 +133,9 @@
   sort_end: 201906
   position: Technical Advisor
   duration: Feb, 2017 &mdash; Jun, 2019
+  location: Portland, Maine (Remote)
   summary: >-
-    <p>Technical advisor based in Portland, Maine.</p>
+    <p>Technical advisor.</p>
 
 # Chief Technology Officer
 - company: Cue Connect
@@ -136,8 +143,9 @@
   sort_end: 201612
   position: Chief Technology Officer
   duration: May, 2016 &mdash; Dec, 2016
+  location: New York, New York
   summary: >-
-    <p>Chief Technology Officer based in New York, New York.</p>
+    <p>Chief Technology Officer.</p>
 
 # Chief Technology Officer
 - company: Vodyssey Group
@@ -145,8 +153,9 @@
   sort_end: 201107
   position: Chief Technology Officer
   duration: Nov, 2010 &mdash; Jul, 2011
+  location: New York, New York
   summary: >-
-    <p>Chief Technology Officer based in New York, New York.</p>
+    <p>Chief Technology Officer.</p>
 
 # Consultant
 - company: MAP Digital, Inc.
@@ -154,8 +163,9 @@
   sort_end: 201107
   position: Consultant
   duration: Oct, 2010 &mdash; Jul, 2011
+  location: New York, New York
   summary: >-
-    <p>Consulting engagement based in New York, New York.</p>
+    <p>Consulting engagement.</p>
 
 # Consultant
 - company: American Arbitration Association
@@ -163,8 +173,9 @@
   sort_end: 201103
   position: Consultant
   duration: Aug, 2010 &mdash; Mar, 2011
+  location: New York, New York
   summary: >-
-    <p>Consulting engagement based in New York, New York.</p>
+    <p>Consulting engagement.</p>
 
 # Consultant
 - company: Synaptic Digital, a Definition 6 Company
@@ -172,8 +183,9 @@
   sort_end: 201004
   position: Consultant
   duration: Nov, 2009 &mdash; Apr, 2010
+  location: New York, New York
   summary: >-
-    <p>Consulting engagement based in New York, New York.</p>
+    <p>Consulting engagement.</p>
 
 # Consultant
 - company: Patrizzi &amp; Co Auctioneers
@@ -181,8 +193,9 @@
   sort_end: 201002
   position: Consultant
   duration: Sep, 2009 &mdash; Feb, 2010
+  location: New York, New York
   summary: >-
-    <p>Consulting engagement based in New York, New York.</p>
+    <p>Consulting engagement.</p>
 
 # Director of Operations and Infrastructure
 - company: MediaLink
@@ -190,6 +203,7 @@
   sort_end: 200912
   position: Director of Operations and Infrastructure
   duration: 2007 &mdash; 2009
+  location: New York, New York
   summary: >-
     <p>Recruited to lead IT transformation initiatives for a global video
     distribution platform serving 250,000+ media outlets across 190 countries,
@@ -211,6 +225,7 @@
   sort_end: 200710
   position: Director of Operations
   duration: Jun, 2006 &mdash; Oct, 2007
+  location: San Francisco, California
   summary: >-
     <p>Led operations for a mobile channel platform tackling cost, complexity, and
     time barriers to managing mobile content.</p>
@@ -228,6 +243,7 @@
   sort_end: 200706
   position: Consultant
   duration: Aug, 2006 &mdash; Jun, 2007
+  location: San Carlos, CA
   summary: >-
     <p>Consulted on Contactual OnDemand, a subscription-based alternative to
     traditional call center technologies.</p>
@@ -238,6 +254,7 @@
   sort_end: 200605
   position: Consultant
   duration: Jan, 2006 &mdash; May, 2006
+  location: Redwood City, California
   summary: >-
     <p>Consulted on consumer credit and personal information protection services
     helping users manage and control access to their data.</p>
@@ -248,6 +265,7 @@
   sort_end: 200512
   position: Consultant
   duration: Sep, 2005 &mdash; Dec, 2005
+  location: New York, New York
   summary: >-
     <p>Provided program management services for educational software development.</p>
 
@@ -257,6 +275,7 @@
   sort_end: 200508
   position: Chief Technology Officer
   duration: Apr, 2004 &mdash; Aug, 2005
+  location: New York, New York
   summary: >-
     <p>Co-founded a managed service provider delivering custom hosted voice and
     data services for small and medium sized businesses.</p>
@@ -280,6 +299,7 @@
   sort_end: 200412
   position: Senior Network Engineer
   duration: 2002 &mdash; 2004
+  location: New York, New York
   summary: >-
     <p>Managed and scaled infrastructure and production operations for a
     high-growth digital media and streaming company, supporting secure LAN/WAN
@@ -298,9 +318,9 @@
   sort_end: 200112
   position: Senior Network Engineer
   duration: 2000 &dash; 2001
+  location: San Francisco, California
   summary: >-
-    <p>Senior Network Engineer for online storage service based in San Francisco,
-    California.</p>
+    <p>Senior Network Engineer for online storage service.</p>
 
 # Senior Network Engineer
 - company: eBay
@@ -308,6 +328,7 @@
   sort_end: 200012
   position: Senior Network Engineer
   duration: 2000
+  location: San Jose, California
   summary: >-
     <p>Served as eBay&rsquo;s first Senior Network Engineer, administering
     Cisco-based infrastructure supporting 2,000 internal users and 64M+ site
@@ -323,6 +344,7 @@
   sort_end: 200012
   position: Senior Network Engineer
   duration: 1999 &mdash; 2000
+  location: Woodcliff Lake, New Jersey
   summary: >-
     <p>Served as the first technical hire supporting the launch of ToysRUs.com,
     architecting and building the ecommerce data center infrastructure, including
@@ -336,6 +358,7 @@
   sort_end: 199912
   position: Network Engineer
   duration: 1998 &mdash; 1999
+  location: New York, New York
   summary: >-
     <p>Assisted in designing and deploying infrastructure supporting the launch of
     theGlobe.com, one of the earliest social media platforms and the company behind
@@ -347,9 +370,9 @@
   sort_end: 199812
   position: Systems Administrator
   duration: 1997 &dash; 1998
+  location: New York, New York
   summary: >-
-    <p>Systems Administrator for financial analytic software development based in
-    New York, New York.</p>
+    <p>Systems Administrator for financial analytic software development.</p>
 
 # Systems Administrator
 - company: Cyber Cafe
@@ -357,6 +380,7 @@
   sort_end: 199712
   position: Systems Administrator
   duration: 1997
+  location: New York, New York
   summary: >-
     <p>Systems Administrator for the first &ldquo;CyberCafe&rdquo; in New York.</p>
 
@@ -366,8 +390,9 @@
   sort_end: 199712
   position: Founder / Principal
   duration: 1996 &dash; 1997
+  location: New York, New York
   summary: >-
-    <p>Founder and Principal of a jewelry e-commerce site based in New York, New York.</p>
+    <p>Founder and Principal of a jewelry e-commerce site.</p>
 
 # Systems Administrator
 - company: NP Systems
@@ -375,8 +400,8 @@
   sort_end: 199606
   position: Systems Administrator
   duration: Jan, 1996 &mdash; Jun, 1996
+  location: Staten Island, New York
   summary: >-
-    <p>Systems Administrator based in the New York City Metropolitan Area.</p>
     <p>Design and implementation of 100-node Novell networks.</p>
     <p>On-site troubleshooting and repair of networks.</p>
 
@@ -386,6 +411,6 @@
   sort_end: 199612
   position: Technical Support
   duration: 1995 &dash; 1996
+  location: Staten Island, New York
   summary: >-
-    <p>Technical support for the first Internet Service Provider in New York City,
-    based in Staten Island, New York.</p>
+    <p>Technical support for the first Internet Service Provider in New York City.</p>
