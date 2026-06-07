@@ -202,10 +202,10 @@
 
 # Director of Operations and Infrastructure
 - company: MediaLink
-  sort_start: 200711
+  sort_start: 200710
   sort_end: 200904
   position: Director of Operations and Infrastructure
-  duration: Nov, 2007 &mdash; Apr, 2009
+  duration: Oct, 2007 &mdash; Apr, 2009
   location: New York, New York
   summary: >-
     <p>Recruited to lead IT transformation initiatives for a global video
@@ -225,9 +225,9 @@
 # Director of Operations
 - company: Waterfall Mobile
   sort_start: 200606
-  sort_end: 200711
+  sort_end: 200710
   position: Director of Operations
-  duration: Jun, 2006 &mdash; Nov, 2007
+  duration: Jun, 2006 &mdash; Oct, 2007
   location: San Francisco, California
   summary: >-
     <p>Led operations for a mobile channel platform tackling cost, complexity, and
@@ -370,9 +370,9 @@
 # Systems Administrator
 - company: Inventure
   sort_start: 199711
-  sort_end: 199808
+  sort_end: 199807
   position: Systems Administrator
-  duration: Nov, 1997 &mdash; Aug, 1998
+  duration: Nov, 1997 &mdash; Jul, 1998
   location: New York, New York
   summary: >-
     <p>Systems Administrator for financial analytic software development.</p>
