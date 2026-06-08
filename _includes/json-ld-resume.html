@@ -35,7 +35,7 @@
       "email": {{ site.resume_contact_email | jsonify }},
       "telephone": {{ site.resume_contact_telephone | jsonify }},
       "url": {{ profile_url | jsonify }},
-      "description": {{ site.resume_header_intro | strip_html | strip_newlines | jsonify }},
+      "description": {{ site.resume_header_intro | strip_html | strip_newlines | replace: '&rsquo;', "'" | replace: '&ldquo;', '"' | replace: '&rdquo;', '"' | replace: '&mdash;', '—' | replace: '&amp;', '&' | jsonify }},
       "address": {
         "@type": "PostalAddress",
         "addressLocality": {{ site.resume_contact_address | jsonify }}

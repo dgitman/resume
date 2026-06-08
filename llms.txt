@@ -1,0 +1,31 @@
+# David Gitman
+
+> Technology leader in ecommerce, cloud infrastructure, and AI automation.
+
+David Gitman is a hands-on technology and ecommerce leader with 30+ years of experience building and scaling digital commerce platforms, cloud-native infrastructure, AI-driven automation, and operational systems across startups and growth-stage businesses.
+
+## Key facts
+
+- Name: David Gitman
+- Title: Technology Leader | Ecommerce, Cloud Infrastructure & AI Automation
+- Location: United States
+- Email: david@because.ventures
+- Phone: (917) 723-2895
+
+## Expertise
+
+Ecommerce and marketplace platforms; cloud infrastructure and DevOps; AI automation and workflow systems; headless commerce and scalable architectures; startup and high-growth technology environments.
+
+Technologies: Shopify, Magento, AWS, GCP, React, Next.js, Node.js, Kubernetes, vector databases, RAG architectures, agent-based automation.
+
+## Links
+
+- Website: https://davidgitman.com
+- LinkedIn: https://www.linkedin.com/in/dgitman/
+- GitHub: https://github.com/dgitman/resume
+- Twitter: https://twitter.com/dgitman
+- Medium: https://medium.com/@dgitman
+
+## Current focus
+
+Headless commerce platforms, cloud-native infrastructure, affiliate commerce ecosystems, monetization systems, and AI-assisted development workflows using ChatGPT, Claude, Gemini, and GitHub Copilot.

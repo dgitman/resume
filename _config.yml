@@ -1,6 +1,16 @@
 # Site settings
-title: "David Gitman's Resume"
-description: "Technology Leader | Ecommerce, Cloud Infrastructure & AI Automation."
+url: "https://davidgitman.com"
+title: David Gitman
+description: "David Gitman is a technology leader in ecommerce, cloud infrastructure, and AI automation. CTO, founder, and operator with 30+ years building digital commerce platforms."
+image: /images/avatar.jpg
+logo: /images/avatar.jpg
+twitter:
+  username: dgitman
+  card: summary
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
 
 # Build settings
 markdown: kramdown
