@@ -6,35 +6,35 @@
 
 # Languages & Databases
 - skill: Languages &amp; Databases
-  description: HTML, CSS, PHP, PERL, Bash, BASIC, MySQL, MS SQL, Oracle,
+  description: HTML, CSS, PHP, Perl, Bash, BASIC, MySQL, MS SQL, Oracle,
     Sybase, PostgreSQL
 
 # Software & Tools
 - skill: Software &amp; Tools
   description: MS Exchange, IIS, VSS, Office, Visio, Project, Backup Exec,
-    NetBackup, Amanda, Bacula, SVN Resonate, Symantec Antivirus, Mcafee
-    VirusScan, Trend Micro Officescan, VMware Enterprise, Blackberry Enterprise
+    NetBackup, Amanda, Bacula, SVN Resonate, Symantec Antivirus, McAfee
+    VirusScan, Trend Micro OfficeScan, VMware Enterprise, BlackBerry Enterprise
     Server, Atlassian JIRA, Confluence, Remedy, Apache, Tomcat, BIND, Sendmail,
-    Qmail, SpamAssassin, ClamAV, F5 BigIP, 3DNS Ghost, Asterisk, , Ethereal,
+    Qmail, SpamAssassin, ClamAV, F5 BIG-IP, 3DNS Ghost, Asterisk, Ethereal,
     tcpdump
 
 # Security
 - skill: Security
   description: Cisco PIX/ASA, Policy Manager, Access Control Server, VPN,
-    Intrusion Detection, Security Scanner, CheckPoint Firewall-1, Raptor
-    Firewall, Watchguard, ISS Real Secure, Internet / System / Database
-    Scanners, RSA SecureID / Keon, Snort, Nessus
+    Intrusion Detection, Security Scanner, Check Point Firewall-1, Raptor
+    Firewall, WatchGuard, ISS RealSecure, Internet / System / Database
+    Scanners, RSA SecurID / Keon, Snort, Nessus
 
 # Network & Application Monitoring Platforms
 - skill: Network &amp; Application Monitoring Platforms
-  description: OpenNMS, Zenoss, Splunk, Nagios / Net Saint MRTG, Cricket, Big
-    Brother, Nmap, RANCID, NetFlow Monitor, Webalizer, AWstats, Cisco Works, HP
-    OpenView, Concord Network Health, MicroMuse Net Cool, Solarwinds Orion,
+  description: OpenNMS, Zenoss, Splunk, Nagios / NetSaint MRTG, Cricket, Big
+    Brother, Nmap, RANCID, NetFlow Monitor, Webalizer, AWStats, Cisco Works, HP
+    OpenView, Concord Network Health, MicroMuse Netcool, SolarWinds Orion,
     SiteScope
 
 # Storage
 - skill: Storage
-  description: EMC Symmetrix, Clariion, Dell Equallogic, 3par InsSrv
+  description: EMC Symmetrix, Clariion, Dell EqualLogic, 3PAR InServ
 
 # Protocols
 - skill: Protocols

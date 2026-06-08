@@ -1,7 +1,7 @@
 # Site settings
 url: "https://davidgitman.com"
 title: David Gitman
-description: "David Gitman is a technology leader in ecommerce, cloud infrastructure, and AI automation. CTO, founder, and operator with 30+ years building digital commerce platforms."
+description: "David Gitman is a technology leader in eCommerce, cloud infrastructure, and AI automation. CTO, founder, and operator with 30+ years building digital commerce platforms."
 image: /images/avatar.jpg
 logo: /images/avatar.jpg
 twitter:
@@ -21,7 +21,7 @@ sass:
 # Resume settings
 resume_avatar:                  "true"
 resume_name:                    "David Gitman"
-resume_title:                   "Technology Leader | Ecommerce, Cloud Infrastructure & AI Automation | Headless Commerce, DevOps & Growth Systems | Startup & Venture Ecosystems"
+resume_title:                   "Technology Leader | eCommerce, Cloud Infrastructure & AI Automation | Headless Commerce, DevOps & Growth Systems | Startup & Venture Ecosystems"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "david@because.ventures"
@@ -33,12 +33,12 @@ resume_contact_address:         "United States"
 resume_header_contact_info:     "United States • (917) 723-2895 • david@because.ventures"
 display_header_contact_info:    "true"
 
-resume_header_intro: "<p>Hands-on technology and ecommerce leader with deep experience building and scaling digital commerce platforms, cloud infrastructure, AI-driven automation, and operational systems across startups and growth-stage businesses. My background spans ecommerce, cloud architecture, DevOps, marketplaces, growth systems, and venture-backed technology environments.</p>
-<p>I&rsquo;ve led and architected headless commerce platforms, cloud-native infrastructure, affiliate commerce ecosystems, monetization systems, and large-scale ecommerce operations across Shopify, Magento, AWS, GCP, React, Next.js, Node.js, Kubernetes, and modern AI-assisted development workflows. My experience spans both hands-on engineering execution and broader product, operational, and growth leadership.</p>
-<p>Over the course of my career, I&rsquo;ve scaled ecommerce businesses through SEO, CRO, marketplace distribution, infrastructure modernization, and operational automation. I&rsquo;ve designed APIs and middleware integrating ERPs, 3PLs, CRMs, payment providers, and fulfillment systems, while leading infrastructure initiatives focused on scalability, reliability, observability, and performance optimization.</p>
-<p>I&rsquo;ve also invested in and advised early-stage commerce and technology companies, supporting founders across ecommerce strategy, operational scaling, infrastructure, monetization, and technical execution across ecommerce, SaaS, marketplaces, creator monetization, and social commerce platforms.</p>
-<p>More recently, my focus has expanded into AI-driven development and workflow automation using ChatGPT, Claude, Gemini, GitHub Copilot, vector databases, RAG architectures, semantic retrieval pipelines, and agent-based automation systems for prototyping, operational tooling, ecommerce optimization, and workflow acceleration.</p>
-<p><b>Specialties include:</b> Ecommerce and marketplace platforms; cloud infrastructure and DevOps; AI automation and workflow systems; headless commerce and scalable architectures; startup and high-growth technology environments.</p>"
+resume_header_intro: "<p>Hands-on technology and eCommerce leader with deep experience building and scaling digital commerce platforms, cloud infrastructure, AI-driven automation, and operational systems across startups and growth-stage businesses. My background spans eCommerce, cloud architecture, DevOps, marketplaces, growth systems, and venture-backed technology environments.</p>
+<p>I&rsquo;ve led and architected headless commerce platforms, cloud-native infrastructure, affiliate commerce ecosystems, monetization systems, and large-scale eCommerce operations across Shopify, Magento, AWS, GCP, React, Next.js, Node.js, Kubernetes, and modern AI-assisted development workflows. My experience spans both hands-on engineering execution and broader product, operational, and growth leadership.</p>
+<p>Over the course of my career, I&rsquo;ve scaled eCommerce businesses through SEO, CRO, marketplace distribution, infrastructure modernization, and operational automation. I&rsquo;ve designed APIs and middleware integrating ERPs, 3PLs, CRMs, payment providers, and fulfillment systems, while leading infrastructure initiatives focused on scalability, reliability, observability, and performance optimization.</p>
+<p>I&rsquo;ve also invested in and advised early-stage commerce and technology companies, supporting founders across eCommerce strategy, operational scaling, infrastructure, monetization, and technical execution across eCommerce, SaaS, marketplaces, creator monetization, and social commerce platforms.</p>
+<p>More recently, my focus has expanded into AI-driven development and workflow automation using ChatGPT, Claude, Gemini, GitHub Copilot, vector databases, RAG architectures, semantic retrieval pipelines, and agent-based automation systems for prototyping, operational tooling, eCommerce optimization, and workflow acceleration.</p>
+<p><b>Specialties include:</b> eCommerce and marketplace platforms; cloud infrastructure and DevOps; AI automation and workflow systems; headless commerce and scalable architectures; startup and high-growth technology environments.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
