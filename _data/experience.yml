@@ -145,6 +145,27 @@
     through data-driven decision making and customer-centric digital
     experiences.</p>
 
+# Chief Operating Officer / Chief Technology Officer / Co-Founder
+- company: Erebral
+  sort_start: 201901
+  sort_end: 202005
+  position: Chief Operating Officer / Chief Technology Officer / Co-Founder
+  duration: Jan, 2019 &mdash; May, 2020
+  location: New York, NY
+  summary: >-
+    <p>Co-founded an investment and venture development firm focused on early-stage
+    direct-to-consumer (DTC) brands and e-commerce technologies with measurable
+    social impact.</p>
+    <p>Evaluated investment opportunities, conducted due diligence, and partnered
+    with founders to transform concepts into scalable businesses.</p>
+    <p>Led technology strategy, operational planning, and product development
+    initiatives across portfolio companies.</p>
+    <p>Provided hands-on support in fundraising, go-to-market strategy, e-commerce
+    operations, and organizational development from ideation through Series A
+    readiness.</p>
+    <p>Built relationships with founders, investors, and strategic partners to
+    accelerate growth and create sustainable business outcomes.</p>
+
 # Chief Technology Officer / Co-Founder
 - company: Scalene Group
   sort_start: 201904
@@ -352,6 +373,22 @@
   sort_end: 200909
   position: Chief Executive Officer / Co-Founder
   duration: Feb, 2009 &mdash; Sep, 2009
+  summary: >-
+    <p>Co-founded a public relations, digital marketing, and media services startup
+    focused on integrating traditional broadcast media with emerging social media
+    and online marketing channels.</p>
+    <p>Developed the company&rsquo;s business model, go-to-market strategy, financial
+    projections, investor materials, and operational plans.</p>
+    <p>Designed a scalable technology vision, including a client self-service
+    platform for campaign management, reporting, asset delivery, and performance
+    tracking.</p>
+    <p>Built strategic partnerships and pursued funding opportunities, including
+    bank financing, SBA lending, and private investor outreach.</p>
+    <p>Led market research and product strategy around social media, online video,
+    mobile marketing, and digital communications trends.</p>
+    <p>Managed company formation, branding, service development, and early business
+    development efforts before the venture was discontinued following the departure
+    of a co-founder.</p>
 
 # Consultant
 - company: Synaptic Digital (The News Market)
@@ -379,6 +416,17 @@
   position: Consultant
   duration: Sep, 2009 &mdash; Feb, 2010
   location: New York, New York
+  summary: >-
+    <p>Advised executive leadership on technology strategy, business process
+    improvement, and operational efficiency initiatives.</p>
+    <p>Evaluated, selected, and implemented technology solutions supporting
+    auction operations, client services, and business growth.</p>
+    <p>Improved infrastructure, security, reporting, and data management
+    capabilities while reducing operational complexity.</p>
+    <p>Managed vendor relationships and cross-functional projects to enhance
+    scalability, reliability, and organizational effectiveness.</p>
+    <p>Provided hands-on support for systems, networks, and business-critical
+    applications.</p>
 
 # Director of Operations and Infrastructure
 - company: MediaLink
@@ -428,8 +476,15 @@
   duration: Aug, 2006 &mdash; Jun, 2007
   location: San Carlos, CA
   summary: >-
-    <p>Consulted on Contactual OnDemand, a subscription-based alternative to
-    traditional call center technologies.</p>
+    <p>Consulted on Contactual OnDemand, a SaaS-based alternative to traditional
+    call center infrastructure.</p>
+    <p>Designed and implemented network, VPN, and WAN connectivity solutions to
+    support a rapidly growing hosted contact center platform.</p>
+    <p>Improved infrastructure reliability, security, and performance through
+    network architecture enhancements, QoS optimization for VoIP traffic, and
+    secure remote access capabilities.</p>
+    <p>Partnered with executive leadership and engineering teams to modernize
+    operations and support scalable service delivery.</p>
 
 # Consultant
 - company: TrustedID
@@ -439,18 +494,43 @@
   duration: Jan, 2006 &mdash; May, 2006
   location: Redwood City, California
   summary: >-
-    <p>Consulted on consumer credit and personal information protection services
-    helping users manage and control access to their data.</p>
+    <p>Designed and implemented the IT infrastructure supporting the launch of
+    TrustedID, an identity theft protection startup.</p>
+    <p>Built and documented the company&rsquo;s Network Operations Center (NOC),
+    leveraging Cisco networking and UNIX-based systems to support scalable
+    operations.</p>
+    <p>Implemented network monitoring, security controls, and operational
+    processes to ensure reliability and service availability.</p>
+    <p>Supported deployment and administration of Cisco networking equipment and
+    VoIP communications infrastructure.</p>
+    <p>Developed the organization&rsquo;s information security and compliance
+    program, establishing policies, procedures, and controls aligned with ISO
+    17799 standards.</p>
+    <p>Partnered with executive leadership to create a secure, scalable
+    technology foundation capable of supporting rapid business growth.</p>
 
 # Consultant
-- company: Platform Learning
+- company: Platform Learning, Inc.
   sort_start: 200509
   sort_end: 200512
   position: Consultant
   duration: Sep, 2005 &mdash; Dec, 2005
   location: New York, New York
   summary: >-
-    <p>Provided program management services for educational software development.</p>
+    <p>Executed a pilot online learning program designed to evaluate the feasibility
+    of transitioning a major after-school education provider from traditional
+    teacher-led instruction to a scalable technology-enabled learning model.</p>
+    <p>Traveled throughout the New York metropolitan area to deploy laptops,
+    wireless networking infrastructure, and educational software at inner-city
+    schools and community-based after-school learning centers.</p>
+    <p>Provided onsite technical support, training, and troubleshooting for
+    students, educators, and program staff to ensure successful adoption of the
+    technology platform.</p>
+    <p>Managed hardware, software, networking, and operational issues while
+    documenting program performance, lessons learned, and recommendations for
+    future expansion.</p>
+    <p>Collaborated with educational leaders and Platform Learning management to
+    improve program delivery and support the successful execution of the pilot.</p>
 
 # Co-Founder / Chief Technology Officer (CTO)
 - company: Digital Management Services
