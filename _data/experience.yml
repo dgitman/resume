@@ -125,7 +125,7 @@
 
 # Chief Ignition Officer / Founder
 - company: Igniterate
-  url: https://igniterate.com/
+  url: https://web.archive.org/web/20220704082345/https://www.igniterate.com/
   sort_start: 202007
   sort_end: 202212
   position: Chief Ignition Officer / Founder
@@ -152,7 +152,7 @@
 
 # Chief Operating Officer / Chief Technology Officer / Co-Founder
 - company: Erebral
-  url: https://web.archive.org/web/20190101000000*/http://erebral.com/
+  url: https://web.archive.org/web/20191116235243/http://erebral.com/
   sort_start: 201901
   sort_end: 202005
   position: Chief Operating Officer / Chief Technology Officer / Co-Founder
@@ -174,7 +174,7 @@
 
 # Chief Technology Officer / Co-Founder
 - company: Scalene Group
-  url: https://web.archive.org/web/20190101000000*/http://www.scalenegroup.com/
+  url: https://web.archive.org/web/20191206025144/https://scalene.group/
   sort_start: 201904
   sort_end: 202101
   position: Chief Technology Officer / Co-Founder
@@ -204,7 +204,7 @@
 
 # Chief Operating Officer
 - company: MageMojo
-  url: https://www.magemojo.com/
+  url: https://web.archive.org/web/20180901192453/https://magemojo.com/
   sort_start: 201807
   sort_end: 201809
   position: Chief Operating Officer
@@ -235,7 +235,7 @@
 
 # Chief Acceleration Officer / Founder
 - company: Accel Commerce
-  url: https://web.archive.org/web/20180101000000*/http://www.accelcommerce.com/
+  url: https://web.archive.org/web/20171020040702/https://accelcommerce.com/
   sort_start: 201703
   sort_end: 201811
   position: Chief Acceleration Officer / Founder
@@ -286,7 +286,7 @@
 
 # Chief Technology Officer
 - company: Cue Connect
-  url: https://web.archive.org/web/20161201000000*/http://www.cueconnect.com/
+  url: https://web.archive.org/web/20161107204444/https://business.cueconnect.com/
   sort_start: 201605
   sort_end: 201612
   position: Chief Technology Officer
@@ -315,7 +315,7 @@
 
 # Chief Technology Officer
 - company: Vodyssey Group
-  url: https://web.archive.org/web/20110701000000*/http://www.vodyssey.com/
+  url: https://web.archive.org/web/20130718145901/http://vodysseygroup.com/
   sort_start: 201011
   sort_end: 201107
   position: Chief Technology Officer
@@ -383,7 +383,7 @@
 
 # Chief Executive Officer / Co-Founder
 - company: Involve Media
-  url: https://web.archive.org/web/20090901000000*/http://www.involvemedia.com/
+  url: https://web.archive.org/web/20110202092030/http://involvemedia.com/
   sort_start: 200902
   sort_end: 200909
   position: Chief Executive Officer / Co-Founder
@@ -407,7 +407,7 @@
 
 # Consultant
 - company: Synaptic Digital (The News Market)
-  url: https://web.archive.org/web/20100301000000*/http://www.thenewsmarket.com/
+  url: https://web.archive.org/web/20100515125648/http://www.synapticdigital.com/
   sort_start: 200911
   sort_end: 201004
   position: Consultant
@@ -427,7 +427,7 @@
 
 # Consultant
 - company: Patrizzi &amp; Co Auctioneers
-  url: https://web.archive.org/web/20091001000000*/http://www.patrizzi.com/
+  url: https://web.archive.org/web/20100207022802/http://www.patrizziauction.com/
   sort_start: 200909
   sort_end: 201002
   position: Consultant
@@ -447,7 +447,7 @@
 
 # Director of Operations and Infrastructure
 - company: MediaLink
-  url: https://www.medialink.com/
+  url: https://web.archive.org/web/20090212024003/http://www.medialink.com/
   sort_start: 200710
   sort_end: 200904
   position: Director of Operations and Infrastructure
@@ -470,7 +470,7 @@
 
 # Director of Operations
 - company: Waterfall Mobile
-  url: https://web.archive.org/web/20070701000000*/http://www.waterfall.com/
+  url: https://web.archive.org/web/20071012020605/http://www.waterfallmobile.com/
   sort_start: 200606
   sort_end: 200710
   position: Director of Operations
@@ -489,7 +489,7 @@
 
 # Consultant
 - company: Contactual
-  url: https://web.archive.org/web/20060201000000*/http://www.contactual.com/
+  url: https://web.archive.org/web/20080410225155/http://www.contactual.com/
   sort_start: 200608
   sort_end: 200706
   position: Consultant
@@ -508,7 +508,7 @@
 
 # Consultant
 - company: TrustedID
-  url: https://web.archive.org/web/20060501000000*/http://www.trustedid.com/
+  url: https://web.archive.org/web/20060719095839/https://www.trustedid.com/
   sort_start: 200601
   sort_end: 200605
   position: Consultant
@@ -531,8 +531,8 @@
     technology foundation capable of supporting rapid business growth.</p>
 
 # Consultant
-- company: Platform Learning, Inc.
-  url: https://web.archive.org/web/20051201000000*/http://www.platformlearning.com/
+- company: Platform Learning
+  url: https://web.archive.org/web/20060613200148/http://www.platformlearning.com/
   sort_start: 200509
   sort_end: 200512
   position: Consultant
@@ -556,7 +556,7 @@
 
 # Co-Founder / Chief Technology Officer (CTO)
 - company: Digital Management Services
-  url: https://web.archive.org/web/20050801000000*/http://www.digitalmanagementservices.com/
+  url: https://web.archive.org/web/20050402043321/http://dmserve.com/
   sort_start: 200404
   sort_end: 200508
   position: Chief Technology Officer
@@ -581,7 +581,7 @@
 
 # Senior Network Engineer
 - company: The FeedRoom
-  url: https://web.archive.org/web/20040301000000*/http://www.thefeedroom.com/
+  url: https://web.archive.org/web/20051023010149/http://www.thefeedroom.com/
   sort_start: 200201
   sort_end: 200403
   position: Senior Network Engineer
@@ -601,7 +601,7 @@
 
 # Senior Network Engineer
 - company: i-drive.com
-  url: https://web.archive.org/web/20010901000000*/http://www.i-drive.com/
+  url: https://web.archive.org/web/20011130032417/http://i-drive.com/
   sort_start: 200101
   sort_end: 200109
   position: Senior Network Engineer
@@ -646,7 +646,7 @@
 
 # Senior Network Engineer
 - company: Toys&quot;R&quot;Us
-  url: https://web.archive.org/web/19990201000000*/http://www.toysrus.com/
+  url: https://www.toysrus.com/
   sort_start: 199902
   sort_end: 200004
   position: Senior Network Engineer
@@ -661,7 +661,7 @@
 
 # Network Engineer
 - company: theGlobe.com
-  url: https://web.archive.org/web/19980801000000*/http://www.theglobe.com/
+  url: https://web.archive.org/web/19990208020837/http://www.theglobe.com/
   sort_start: 199808
   sort_end: 199901
   position: Network Engineer
