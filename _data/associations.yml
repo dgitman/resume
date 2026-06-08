@@ -4,6 +4,7 @@
 - organization: Triangle Tweener Fund
   role: Limited Partner
   year: Jan, 2022 &mdash; Present
+  url: https://www.tweenerfund.com/
   summary: >-
     <p>Limited partner in an index fund of early-stage technology startups in the
     Research Triangle (Raleigh-Durham-Chapel Hill) region.</p>
@@ -15,6 +16,7 @@
 - organization: Techstars
   role: Raleigh-Durham Startup Digest Curator
   year: May, 2019 &mdash; Present
+  url: https://read.letterhead.email/techstars-raleigh-durham
   summary: >-
     <p>Curate the Raleigh-Durham Startup Digest weekly email that brings the
     best in local startup events and resources.</p>
@@ -24,6 +26,7 @@
 - organization: Techstars
   role: Raleigh-Durham Startup Week Organizer
   year: Jun, 2019 &mdash; Mar, 2020
+  url: https://www.raleighdurhamstartupweek.com/
   summary: >-
     Organized a Startup Week celebration of entrepreneurship and the people
     shaping the entrepreneurial ecosystem in Raleigh-Durham.
@@ -44,3 +47,21 @@
   year: 2015 &mdash; 2018
   url: https://web.archive.org/web/20190125233944/http://www.codebrooklyn.org/
   summary: Hour of Code Data Analyst
+
+# Meals on Wheels Durham
+- organization: Meals on Wheels Durham
+  role: Volunteer
+  year: 2018 &mdash; Present
+  url: https://www.mowdurham.org/
+  summary: >-
+    <p>Volunteer delivering meals and providing social contact to homebound
+    seniors and adults in Durham County.</p>
+
+# Second Chance Pet Adoptions
+- organization: Second Chance Pet Adoptions
+  role: Volunteer
+  year: 2018 &mdash; Present
+  url: https://www.secondchancenc.org/
+  summary: >-
+    <p>Volunteer supporting a no-kill animal rescue serving the Raleigh-Durham
+    area.</p>

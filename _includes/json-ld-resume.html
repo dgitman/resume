@@ -72,7 +72,8 @@
           "roleName": {{ job.position | jsonify }},
           "memberOf": {
             "@type": "Organization",
-            "name": {{ job.company | jsonify }}
+            "name": {{ job.company | jsonify }}{% if job.url %},
+            "url": {{ job.url | jsonify }}{% endif %}
           }{% if start_date != '' %},
           "startDate": {{ start_date | jsonify }}{% endif %}{% if end_date != '' %},
           "endDate": {{ end_date | jsonify }}{% endif %}{% if job.location and job.location != '' %},

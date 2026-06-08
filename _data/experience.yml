@@ -1,6 +1,7 @@
 # Jobs
 # CTO / Technology Advisor
 - company: Because Ventures (Igniterate Fund)
+  url: https://because.ventures/
   sort_start: 201701
   sort_end: 999912
   position: CTO / Technology Advisor
@@ -36,7 +37,8 @@
     organic visitors across portfolio brands.</p>
 
 # Head Of eCommerce
-- company: Infinite Reality
+- company: Napster (Infinite Reality, Display Social, Tsū)
+  url: https://theinfinitereality.com/
   sort_start: 202009
   sort_end: 202206
   position: Head Of eCommerce
@@ -72,6 +74,7 @@
 
 # Chief Technology Officer / Co-Founder
 - company: Cooper Square Ventures
+  url: https://www.coopersquareventures.com/
   sort_start: 201108
   sort_end: 202106
   position: Chief Technology Officer / Co-Founder
@@ -99,6 +102,7 @@
 
 # Chief Technology Officer / Founder
 - company: ChannelReply
+  url: https://www.channelreply.com/
   sort_start: 201405
   sort_end: 202106
   position: Chief Technology Officer / Founder
@@ -121,6 +125,7 @@
 
 # Chief Ignition Officer / Founder
 - company: Igniterate
+  url: https://igniterate.com/
   sort_start: 202007
   sort_end: 202212
   position: Chief Ignition Officer / Founder
@@ -147,6 +152,7 @@
 
 # Chief Operating Officer / Chief Technology Officer / Co-Founder
 - company: Erebral
+  url: https://web.archive.org/web/20190101000000*/http://erebral.com/
   sort_start: 201901
   sort_end: 202005
   position: Chief Operating Officer / Chief Technology Officer / Co-Founder
@@ -168,6 +174,7 @@
 
 # Chief Technology Officer / Co-Founder
 - company: Scalene Group
+  url: https://web.archive.org/web/20190101000000*/http://www.scalenegroup.com/
   sort_start: 201904
   sort_end: 202101
   position: Chief Technology Officer / Co-Founder
@@ -197,6 +204,7 @@
 
 # Chief Operating Officer
 - company: MageMojo
+  url: https://www.magemojo.com/
   sort_start: 201807
   sort_end: 201809
   position: Chief Operating Officer
@@ -227,6 +235,7 @@
 
 # Chief Acceleration Officer / Founder
 - company: Accel Commerce
+  url: https://web.archive.org/web/20180101000000*/http://www.accelcommerce.com/
   sort_start: 201703
   sort_end: 201811
   position: Chief Acceleration Officer / Founder
@@ -251,6 +260,7 @@
 
 # Technical Advisor
 - company: Get Maine Lobster
+  url: https://www.getmainelobster.com/
   sort_start: 201702
   sort_end: 201906
   position: Technical Advisor
@@ -276,6 +286,7 @@
 
 # Chief Technology Officer
 - company: Cue Connect
+  url: https://web.archive.org/web/20161201000000*/http://www.cueconnect.com/
   sort_start: 201605
   sort_end: 201612
   position: Chief Technology Officer
@@ -304,6 +315,7 @@
 
 # Chief Technology Officer
 - company: Vodyssey Group
+  url: https://web.archive.org/web/20110701000000*/http://www.vodyssey.com/
   sort_start: 201011
   sort_end: 201107
   position: Chief Technology Officer
@@ -329,6 +341,7 @@
 
 # Consultant
 - company: "MAP Digital: MetaMeetings"
+  url: https://www.metameetings.com/
   sort_start: 201010
   sort_end: 201107
   position: Consultant
@@ -349,6 +362,7 @@
 
 # Consultant
 - company: American Arbitration Association
+  url: https://www.adr.org/
   sort_start: 201008
   sort_end: 201103
   position: Consultant
@@ -369,6 +383,7 @@
 
 # Chief Executive Officer / Co-Founder
 - company: Involve Media
+  url: https://web.archive.org/web/20090901000000*/http://www.involvemedia.com/
   sort_start: 200902
   sort_end: 200909
   position: Chief Executive Officer / Co-Founder
@@ -392,6 +407,7 @@
 
 # Consultant
 - company: Synaptic Digital (The News Market)
+  url: https://web.archive.org/web/20100301000000*/http://www.thenewsmarket.com/
   sort_start: 200911
   sort_end: 201004
   position: Consultant
@@ -411,6 +427,7 @@
 
 # Consultant
 - company: Patrizzi &amp; Co Auctioneers
+  url: https://web.archive.org/web/20091001000000*/http://www.patrizzi.com/
   sort_start: 200909
   sort_end: 201002
   position: Consultant
@@ -430,6 +447,7 @@
 
 # Director of Operations and Infrastructure
 - company: MediaLink
+  url: https://www.medialink.com/
   sort_start: 200710
   sort_end: 200904
   position: Director of Operations and Infrastructure
@@ -452,6 +470,7 @@
 
 # Director of Operations
 - company: Waterfall Mobile
+  url: https://web.archive.org/web/20070701000000*/http://www.waterfall.com/
   sort_start: 200606
   sort_end: 200710
   position: Director of Operations
@@ -470,6 +489,7 @@
 
 # Consultant
 - company: Contactual
+  url: https://web.archive.org/web/20060201000000*/http://www.contactual.com/
   sort_start: 200608
   sort_end: 200706
   position: Consultant
@@ -488,6 +508,7 @@
 
 # Consultant
 - company: TrustedID
+  url: https://web.archive.org/web/20060501000000*/http://www.trustedid.com/
   sort_start: 200601
   sort_end: 200605
   position: Consultant
@@ -511,6 +532,7 @@
 
 # Consultant
 - company: Platform Learning, Inc.
+  url: https://web.archive.org/web/20051201000000*/http://www.platformlearning.com/
   sort_start: 200509
   sort_end: 200512
   position: Consultant
@@ -534,6 +556,7 @@
 
 # Co-Founder / Chief Technology Officer (CTO)
 - company: Digital Management Services
+  url: https://web.archive.org/web/20050801000000*/http://www.digitalmanagementservices.com/
   sort_start: 200404
   sort_end: 200508
   position: Chief Technology Officer
@@ -558,6 +581,7 @@
 
 # Senior Network Engineer
 - company: The FeedRoom
+  url: https://web.archive.org/web/20040301000000*/http://www.thefeedroom.com/
   sort_start: 200201
   sort_end: 200403
   position: Senior Network Engineer
@@ -577,6 +601,7 @@
 
 # Senior Network Engineer
 - company: i-drive.com
+  url: https://web.archive.org/web/20010901000000*/http://www.i-drive.com/
   sort_start: 200101
   sort_end: 200109
   position: Senior Network Engineer
@@ -604,6 +629,7 @@
 
 # Senior Network Engineer
 - company: eBay
+  url: https://www.ebay.com/
   sort_start: 200005
   sort_end: 200011
   position: Senior Network Engineer
@@ -620,6 +646,7 @@
 
 # Senior Network Engineer
 - company: Toys&quot;R&quot;Us
+  url: https://web.archive.org/web/19990201000000*/http://www.toysrus.com/
   sort_start: 199902
   sort_end: 200004
   position: Senior Network Engineer
@@ -634,6 +661,7 @@
 
 # Network Engineer
 - company: theGlobe.com
+  url: https://web.archive.org/web/19980801000000*/http://www.theglobe.com/
   sort_start: 199808
   sort_end: 199901
   position: Network Engineer
@@ -646,6 +674,7 @@
 
 # Systems Administrator
 - company: Inventure
+  url: https://web.archive.org/web/19971101000000*/http://www.inventure.com/
   sort_start: 199711
   sort_end: 199807
   position: Systems Administrator
@@ -656,6 +685,7 @@
 
 # Systems Administrator
 - company: Cyber Cafe
+  url: https://web.archive.org/web/19970601000000*/http://www.cybercafe.com/
   sort_start: 199706
   sort_end: 199711
   position: Systems Administrator
@@ -687,6 +717,7 @@
 
 # Technical Support
 - company: Planet Earth Communications (earthcom.net)
+  url: https://web.archive.org/web/19960101000000*/http://www.earthcom.net/
   sort_start: 199601
   sort_end: 199606
   sort_last: true
