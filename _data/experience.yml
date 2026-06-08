@@ -261,28 +261,25 @@
   duration: May, 2016 &mdash; Dec, 2016
   location: New York, New York
   summary: >-
-    <p>Led technology strategy, architecture, and engineering operations for an
-    enterprise SaaS marketing platform that captured and analyzed omni-channel
-    shopper intent data to improve retail conversion rates.</p>
+    <p>Led technology strategy and engineering operations for an enterprise SaaS
+    platform that unified online and in-store shopper behavior to help retailers
+    increase conversion rates and customer engagement.</p>
+    <p>Architected an omni-channel identity resolution platform that combined
+    e-commerce activity, proximity-based beacon data, and customer intent signals
+    to create a single view of the consumer across digital and physical retail
+    environments.</p>
     <p>Directed full software development lifecycle across Development, QA, and
-    Production, establishing scalable release processes and high-availability
-    environments supporting enterprise retail clients.</p>
-    <p>Architected an innovative identity-resolution platform that combined online
-    browsing behavior with proximity-based beacon data to create unified consumer
-    profiles across digital and physical retail channels.</p>
+    Production, managing cross-functional teams responsible for backend services,
+    mobile applications, analytics platforms, APIs, and integrations.</p>
     <p>Spearheaded development of custom Magento and WordPress/WooCommerce
-    integrations, enabling seamless deployment of shopper tracking, intent
-    analytics, and personalization capabilities across merchant storefronts.</p>
-    <p>Designed and scaled high-performance data pipelines leveraging
-    ElasticSearch, MySQL, Node.js, and PHP to process large retail product
-    catalogs and real-time shopper activity with sub-second search and reporting
-    performance.</p>
-    <p>Led cross-functional engineering teams responsible for backend services,
-    native iOS applications, SDKs, APIs, and Angular-based analytics platforms
-    used by retailers to measure customer engagement and conversion.</p>
-    <p>Oversaw architecture and delivery of high-throughput services handling
-    millions of consumer interactions while ensuring data accuracy, platform
-    reliability, and operational scalability.</p>
+    extensions that embedded real-time shopper intelligence and behavioral
+    tracking directly into merchant storefronts.</p>
+    <p>Designed scalable Node.js, PHP, MySQL, and ElasticSearch-based systems
+    capable of processing millions of shopper interactions and large retail
+    product catalogs with sub-second query performance.</p>
+    <p>Oversaw delivery of native iOS applications, SDKs, and Angular-based
+    analytics dashboards that enabled retailers to measure customer journeys and
+    optimize marketing performance across channels.</p>
 
 # Chief Technology Officer
 - company: Vodyssey Group
@@ -291,14 +288,43 @@
   position: Chief Technology Officer
   duration: Nov, 2010 &mdash; Jul, 2011
   location: New York, New York
+  summary: >-
+    <p>Led technology strategy and product development for a healthcare technology
+    startup creating an IP-based patient engagement platform for hospitals,
+    integrating bedside entertainment, communications, telemedicine, e-commerce,
+    and electronic medical record (EMR) systems.</p>
+    <p>Directed platform architecture, infrastructure planning, vendor selection,
+    and software development for a cloud-enabled solution designed to modernize
+    the inpatient experience and improve hospital operational efficiency.</p>
+    <p>Collaborated with executive leadership, healthcare architects, and strategic
+    partners including NEC Corporation and Perkins Eastman to define product
+    requirements, deployment models, and technology roadmaps.</p>
+    <p>Supported customer acquisition, technical sales, investor presentations, and
+    deployment planning for hospital and long-term care facilities across the New
+    York market.</p>
+    <p>Designed scalable integration strategies for hospital systems, patient
+    communications, content delivery, VoIP, video conferencing, and healthcare
+    workflow automation.</p>
 
 # Consultant
-- company: MAP Digital, Inc.
+- company: MAP Digital: MetaMeetings
   sort_start: 201010
   sort_end: 201107
   position: Consultant
   duration: Oct, 2010 &mdash; Jul, 2011
   location: New York, New York
+  summary: >-
+    <p>Advised leadership on technology strategy, product development, and digital
+    event solutions for enterprise clients and industry conferences.</p>
+    <p>Collaborated with cross-functional teams to improve platform performance,
+    scalability, and user experience for virtual and hybrid event technologies.</p>
+    <p>Analyzed business requirements and translated them into technical
+    recommendations, helping align technology initiatives with organizational
+    goals.</p>
+    <p>Supported client engagements by providing technical expertise, solution
+    architecture guidance, and implementation oversight.</p>
+    <p>Contributed to process improvements and operational efficiencies that
+    enhanced the delivery of digital engagement and event management services.</p>
 
 # Consultant
 - company: American Arbitration Association
@@ -307,6 +333,18 @@
   position: Consultant
   duration: Aug, 2010 &mdash; Mar, 2011
   location: New York, New York
+  summary: >-
+    <p>Designed and implemented an enterprise Network Monitoring System (NMS) to
+    provide centralized visibility into network infrastructure, servers, and
+    critical business systems.</p>
+    <p>Configured monitoring, alerting, and reporting capabilities to improve
+    system reliability, performance tracking, and incident response.</p>
+    <p>Worked with internal IT teams to identify key infrastructure dependencies
+    and establish proactive monitoring for mission-critical services.</p>
+    <p>Developed monitoring standards, dashboards, and operational procedures to
+    support ongoing network administration and troubleshooting.</p>
+    <p>Assisted with infrastructure assessments and recommendations to improve
+    operational stability and reduce downtime.</p>
 
 # Chief Executive Officer / Co-Founder
 - company: Involve Media
@@ -316,12 +354,23 @@
   duration: Feb, 2009 &mdash; Sep, 2009
 
 # Consultant
-- company: Synaptic Digital, (The News Market)
+- company: Synaptic Digital (The News Market)
   sort_start: 200911
   sort_end: 201004
   position: Consultant
   duration: Nov, 2009 &mdash; Apr, 2010
   location: New York, New York
+  summary: >-
+    <p>Supported executive leadership, including the COO and Head of Technology,
+    during strategic growth initiatives and corporate acquisitions.</p>
+    <p>Assisted with technology, operations, and integration activities related to
+    the acquisition of Medialink and other media technology companies.</p>
+    <p>Coordinated cross-functional efforts between business, technology, and
+    operations teams to support merger planning and post-acquisition integration.</p>
+    <p>Contributed to process improvement, systems analysis, and operational
+    planning initiatives during periods of organizational expansion.</p>
+    <p>Provided project management and technical support for enterprise media
+    distribution and digital communications platforms.</p>
 
 # Consultant
 - company: Patrizzi &amp; Co Auctioneers
