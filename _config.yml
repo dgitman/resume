@@ -2,11 +2,12 @@
 url: "https://davidgitman.com"
 title: David Gitman
 description: "David Gitman is a technology leader in eCommerce, cloud infrastructure, and AI automation. CTO, founder, and operator with 30+ years building digital commerce platforms."
+lang: en_US
 image: /images/avatar.jpg
 logo: /images/avatar.jpg
 twitter:
   username: dgitman
-  card: summary
+  card: summary_large_image
 
 plugins:
   - jekyll-seo-tag
@@ -22,15 +23,18 @@ sass:
 resume_avatar:                  "true"
 resume_name:                    "David Gitman"
 resume_title:                   "Technology Leader | eCommerce, Cloud Infrastructure & AI Automation | Headless Commerce, DevOps & Growth Systems | Startup & Venture Ecosystems"
+resume_schema_job_title:        "Technology Leader — eCommerce, Cloud & AI"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "david@because.ventures"
 
 # the next two items are used for schema itemprops in _layouts/resume.html
 resume_contact_telephone:       "(917) 723-2895"
-resume_contact_address:         "United States"
+resume_contact_address:         "Raleigh-Durham-Chapel Hill Area"
+resume_contact_address_region:  "NC"
+resume_contact_address_country: "US"
 
-resume_header_contact_info:     "United States • (917) 723-2895 • david@because.ventures"
+resume_header_contact_info:     "Raleigh-Durham-Chapel Hill Area • (917) 723-2895 • david@because.ventures"
 display_header_contact_info:    "true"
 
 resume_header_intro: "<p>Hands-on technology and eCommerce leader with deep experience building and scaling digital commerce platforms, cloud infrastructure, AI-driven automation, and operational systems across startups and growth-stage businesses. My background spans eCommerce, cloud architecture, DevOps, marketplaces, growth systems, and venture-backed technology environments.</p>

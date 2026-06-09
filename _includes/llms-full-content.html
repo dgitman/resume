@@ -1,0 +1,66 @@
+# David Gitman — Full Resume Context
+
+> David Gitman is a Raleigh-Durham-Chapel Hill Area–based technology leader specializing in eCommerce, cloud infrastructure, and AI automation.
+
+## Summary
+
+{{ site.description }}
+
+Location: {{ site.resume_contact_address }}, {{ site.resume_contact_address_region }}, United States
+Email: {{ site.resume_contact_email }}
+Phone: {{ site.resume_contact_telephone }}
+Website: {{ site.resume_social_links.resume_website_url | default: site.url }}
+
+## Experience
+
+{% assign last_jobs = site.data.experience | where_exp: "job", "job.sort_last == true" %}
+{% assign regular_jobs = site.data.experience | where_exp: "job", "job.sort_last != true" %}
+{% assign present_jobs = regular_jobs | where_exp: "job", "job.sort_end >= 999912" | sort: 'sort_start' | reverse %}
+{% assign past_jobs = regular_jobs | where_exp: "job", "job.sort_end < 999912" | sort: 'sort_end' %}
+{% assign past_jobs = past_jobs | sort: 'sort_start' | reverse %}
+{% assign resume_jobs = present_jobs | concat: past_jobs | concat: last_jobs %}
+{% for job in resume_jobs %}
+### {{ job.position }} — {{ job.company }}
+- Duration: {{ job.duration | replace: '&mdash;', '—' }}
+- Location: {{ job.location }}
+{% if job.url %}- URL: {{ job.url }}
+{% endif %}{{ job.summary | strip_html | replace: '&rsquo;', "'" | replace: '&ldquo;', '"' | replace: '&rdquo;', '"' | replace: '&mdash;', '—' | replace: '&amp;', '&' | normalize_whitespace }}
+
+{% endfor %}
+## Education
+
+{% for education in site.data.education %}
+- {{ education.uni }}{% if education.degree %} — {{ education.degree }}{% endif %}{% if education.year %} ({{ education.year }}){% endif %}
+{% endfor %}
+
+## Certifications
+
+{% for certification in site.data.certifications %}
+- {{ certification.name | replace: '&mdash;', '—' }} — {{ certification.organization }}{% if certification.year %} ({{ certification.year }}){% endif %}
+{% endfor %}
+
+## Skills
+
+{% for skill in site.data.skills %}
+- {{ skill.skill | strip_html }}: {{ skill.description | strip_html | replace: '&amp;', '&' }}
+{% endfor %}
+
+## Recognition
+
+{% for recognition in site.data.recognitions %}
+- {{ recognition.award }} — {{ recognition.organization }} ({{ recognition.year }})
+{% endfor %}
+
+## Associations
+
+{% for association in site.data.associations %}
+- {{ association.organization }}{% if association.role %} — {{ association.role }}{% endif %}{% if association.year %} ({{ association.year | replace: '&mdash;', '—' }}){% endif %}
+{% endfor %}
+
+## Links
+
+- Website: {{ site.url }}
+- LinkedIn: {{ site.resume_social_links.resume_linkedin_url }}
+- GitHub: {{ site.resume_social_links.resume_github_url }}
+- Wellfound: {{ site.resume_social_links.resume_wellfound_url }}
+- Full machine-readable summary: {{ site.url }}/llms.txt

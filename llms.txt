@@ -1,6 +1,6 @@
 # David Gitman
 
-> Technology leader in eCommerce, cloud infrastructure, and AI automation.
+> David Gitman is a Raleigh-Durham-Chapel Hill Area–based technology leader specializing in eCommerce, cloud infrastructure, and AI automation.
 
 David Gitman is a hands-on technology and eCommerce leader with 30+ years of experience building and scaling digital commerce platforms, cloud-native infrastructure, AI-driven automation, and operational systems across startups and growth-stage businesses.
 
@@ -8,24 +8,63 @@ David Gitman is a hands-on technology and eCommerce leader with 30+ years of exp
 
 - Name: David Gitman
 - Title: Technology Leader | eCommerce, Cloud Infrastructure & AI Automation
-- Location: United States
+- Location: Raleigh-Durham-Chapel Hill Area, NC, United States
+- Area served: Raleigh-Durham-Chapel Hill Area, United States, Remote
 - Email: david@because.ventures
 - Phone: (917) 723-2895
+- Experience: 30+ years
+- Current role: CTO / Technology Advisor, Because Ventures (Igniterate Fund) (2017–Present)
+
+## FAQ
+
+Q: Who is David Gitman?
+A: David Gitman is a technology leader, CTO, founder, and operator with 30+ years of experience in eCommerce, cloud infrastructure, AI automation, and venture-backed technology companies.
+
+Q: Where is David Gitman based?
+A: Raleigh-Durham-Chapel Hill Area, North Carolina, United States. He also works with teams and clients across the United States and remotely.
+
+Q: What does David Gitman specialize in?
+A: eCommerce platforms, cloud architecture, DevOps, AI-driven automation, headless commerce, marketplace operations, growth systems, and early-stage venture advisory.
+
+Q: What is David Gitman's current role?
+A: CTO / Technology Advisor at Because Ventures (Igniterate Fund), investing in and advising early-stage commerce and technology companies since 2017.
+
+Q: How can I contact David Gitman?
+A: Email david@because.ventures or visit https://davidgitman.com.
 
 ## Expertise
 
-eCommerce and marketplace platforms; cloud infrastructure and DevOps; AI automation and workflow systems; headless commerce and scalable architectures; startup and high-growth technology environments.
+eCommerce and marketplace platforms; cloud infrastructure and DevOps; AI automation and workflow systems; headless commerce and scalable architectures; startup, venture, and high-growth technology environments.
 
-Technologies: Shopify, Magento, AWS, GCP, React, Next.js, Node.js, Kubernetes, vector databases, RAG architectures, agent-based automation.
+Core skill areas: Artificial Intelligence (AI), Cloud, DevOps, eCommerce, Marketing, Logistics, CRM, Payments & Finance, Cybersecurity, Venture & Advisory.
+
+Technologies: Shopify Plus, Magento, AWS, GCP, Kubernetes, Terraform, Docker, Python, PHP, JavaScript, Laravel, Pinecone, RAG pipelines, ChatGPT, Claude, Gemini, GitHub Copilot.
+
+## Certifications
+
+- AWS Certified Solutions Architect — Associate (Amazon Web Services)
+- Magento Certified Solution Specialist (Adobe Commerce)
+- Cisco Certified Support Technician — Cybersecurity, Networking, IT Support (Cisco)
+- Certified Wireless IoT Solutions Administrator (CWNP)
+- ISC2 Candidate (ISC2)
+- Make Intermediate Certificate (Make)
+- Explore Emerging Tech (IBM SkillsBuild)
+
+## Recognition
+
+- IBM Champion for Cloud (2017)
 
 ## Links
 
 - Website: https://davidgitman.com
+- Full resume context: https://davidgitman.com/llms-full.txt
 - LinkedIn: https://www.linkedin.com/in/dgitman/
-- GitHub: https://github.com/dgitman/resume
+- GitHub: https://github.com/dgitman
+- Wellfound: https://wellfound.com/u/david-gitman
 - Twitter: https://twitter.com/dgitman
 - Medium: https://medium.com/@dgitman
+- YouTube: https://www.youtube.com/@davidmgit
 
 ## Current focus
 
-Headless commerce platforms, cloud-native infrastructure, affiliate commerce ecosystems, monetization systems, and AI-assisted development workflows using ChatGPT, Claude, Gemini, and GitHub Copilot.
+Headless commerce platforms, cloud-native infrastructure, affiliate commerce ecosystems, monetization systems, and AI-assisted development workflows using ChatGPT, Claude, Gemini, GitHub Copilot, vector databases, and RAG architectures.

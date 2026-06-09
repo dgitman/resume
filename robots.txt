@@ -1,4 +1,20 @@
 User-agent: *
 Allow: /
 
+User-agent: GPTBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
 Sitemap: https://davidgitman.com/sitemap.xml
+Sitemap: https://davidgitman.com/sitemap-extras.xml
+
+# LLM context: https://davidgitman.com/llms.txt
+# Full LLM context: https://davidgitman.com/llms-full.txt

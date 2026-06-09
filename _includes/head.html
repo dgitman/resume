@@ -4,8 +4,16 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
   {% seo %}
+  <meta property="og:type" content="profile">
 
+  <link rel="alternate" type="text/plain" href="{{ '/llms.txt' | absolute_url }}" title="LLM context">
+  <link rel="alternate" type="text/plain" href="{{ '/llms-full.txt' | absolute_url }}" title="Full LLM context">
+
+  {% include rel-me-links.html %}
   {% include google-analytics.html %}
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 
   <!-- Google font typography settings - defined in _config.yml -->
   {% if site.resume_theme == 'default' %}
