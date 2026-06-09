@@ -436,6 +436,11 @@
   summary: >-
     <p>Advised executive leadership on technology strategy, business process
     improvement, and operational efficiency initiatives.</p>
+    <p>Conducted a 6-month assessment of environments, operations, and
+    technologies; identified process, organizational, and technical issues; and
+    recommended a strategy to build a new auction platform leveraging cloud
+    computing and transform the support model to an externally managed
+    structure.</p>
     <p>Evaluated, selected, and implemented technology solutions supporting
     auction operations, client services, and business growth.</p>
     <p>Improved infrastructure, security, reporting, and data management
@@ -462,11 +467,21 @@
     SOX compliance, ITIL-based service management, automation, virtualization,
     infrastructure consolidation, and large-scale systems modernization while
     reducing downtime, operational overhead, and vendor costs.</p>
+    <p>Built a fully automated, high-availability environment, enabling a 75%
+    reduction in IT staff.</p>
+    <p>Created and implemented product development, release management, change
+    management, and configuration management lifecycles across development,
+    quality assurance, and staging environments for over 150 products.</p>
     <p>Architected and centralized infrastructure operations across 8 global
     locations into a tier-one co-location environment, consolidating 150 servers
     into 6 virtualized blade servers and modernizing storage, security, backup/
     recovery, change management, and production operations across multi-platform
     enterprise environments.</p>
+    <p>Built a dedicated Help Desk organization and established service management
+    procedures based on ITIL standards, improving quality of services to users and
+    clients by 620%.</p>
+    <p>Successfully transitioned MediaLink&rsquo;s proprietary Teletrax platform to
+    the Philips environment following acquisition.</p>
 
 # Director of Operations
 - company: Waterfall Mobile
@@ -674,18 +689,22 @@
 
 # Systems Administrator
 - company: Inventure
-  url: https://web.archive.org/web/19971101000000*/http://www.inventure.com/
+  url: https://web.archive.org/web/19971022093710/http://www.inven.com/script/index.html
   sort_start: 199711
   sort_end: 199807
   position: Systems Administrator
   duration: Nov, 1997 &mdash; Jul, 1998
   location: New York, New York
   summary: >-
-    <p>Systems Administrator for financial analytic software development.</p>
+    <p>Systems Administrator for a financial technology software company serving
+    the trading and financial services industry.</p>
+    <p>Managed server, network, and systems infrastructure supporting software
+    development, testing, and production environments while ensuring reliability,
+    security, and operational performance.</p>
 
 # Systems Administrator
 - company: Cyber Cafe
-  url: https://web.archive.org/web/19970601000000*/http://www.cybercafe.com/
+  url: https://web.archive.org/web/19990701000000*/cyber-cafe.com
   sort_start: 199706
   sort_end: 199711
   position: Systems Administrator
@@ -717,7 +736,7 @@
 
 # Technical Support
 - company: Planet Earth Communications (earthcom.net)
-  url: https://web.archive.org/web/19960101000000*/http://www.earthcom.net/
+  url: https://web.archive.org/web/19980518044140/http://earthcom.net/
   sort_start: 199601
   sort_end: 199606
   sort_last: true
