@@ -1,23 +1,29 @@
 # Skills
 
+# Artificial Intelligence (AI)
+- skill: Artificial Intelligence (AI)
+  description: Cursor, Visual Studio Code (VS Code), GitHub Copilot, ChatGPT
+    (GPT-4/5), Gemini, Claude, Claude Cowork, Claude Code, Vision API, Make (Celonis), n8n, Zapier, Pinecone,
+    Retrieval-Augmented Generation (RAG) pipelines, agent workflows
+
+# Venture & Advisory
+- skill: Venture &amp; Advisory
+  description: Early-stage investing, portfolio advisory, investment and technical
+    due diligence, founder coaching, fundraising strategy, go-to-market planning,
+    marketing strategy, sales management, eCommerce/Software as a Service (SaaS)
+    assessment, operational scaling, platform architecture review, growth and
+    monetization strategy, Mergers &amp; Acquisitions (M&amp;A) preparation,
+    strategic partnerships, Carta
+
 # Methodologies
 - skill: Methodologies
   description: Information Technology Infrastructure Library (ITIL), Agile, Scrum,
     Kanban, Software Development Life Cycle (SDLC), Continuous Integration/
     Continuous Delivery (CI/CD), Waterfall
 
-# Programming Languages
-- skill: Programming Languages
-  description: Python, JavaScript, PHP, SQL, Java, PowerShell, HTML, CSS, Bash,
-    BASIC
-
-# Development Frameworks
-- skill: Development Frameworks
-  description: Laravel, Symfony, Shopify Liquid, Zend
-
-# Databases
-- skill: Databases
-  description: MySQL, Supabase, DynamoDB, Redis, Microsoft SQL Server
+# Project Management
+- skill: Project Management
+  description: Jira, Confluence, Trello, Monday.com, ClickUp
 
 # Cloud
 - skill: Cloud
@@ -32,106 +38,99 @@
   description: Terraform, Docker, Kubernetes, Git, GitHub, GitHub Actions, GitLab,
     Bitbucket, Chef, AWS OpsWorks
 
-# Web & Application Infrastructure
-- skill: Web &amp; Application Infrastructure
-  description: Nginx, Apache, HipHop Virtual Machine (HHVM), Varnish, ElasticSearch,
-    Memcached
-
 # Observability
 - skill: Observability
-  description: Prometheus, Grafana, Sentry, LogRocket, New Relic, Nagios
+  description: Prometheus, Grafana, New Relic, Nagios
     (NetSaint)
-
-# Artificial Intelligence (AI)
-- skill: Artificial Intelligence (AI)
-  description: Cursor, Visual Studio Code (VS Code), GitHub Copilot, ChatGPT
-    (GPT-4/5), Gemini, Claude Pro, Claude Haiku, Claude Sonnet, OpenAI
-    Application Programming Interface (API), Anthropic Application Programming
-    Interface (API), Vision API, Make, n8n, Celonis, Zapier, Pinecone, Weaviate, pgvector,
-    Chroma, Retrieval-Augmented Generation (RAG) pipelines, agent workflows
 
 # eCommerce
 - skill: eCommerce
-  description: Shopify Plus, Magento, BigCommerce, WordPress, WooCommerce, Stripe,
+  description: Shopify Plus, Magento, BigCommerce, WordPress, WooCommerce,
     Amazon Marketplace, eBay
 
 # Marketing
 - skill: Marketing
-  description: Google Analytics 4, Looker Studio (formerly Data Studio), Klaviyo, Bonterra EveryAction, Ahrefs, Google
+  description: Google Analytics 4, Looker Studio (formerly Data Studio), Klaviyo, Ahrefs, Google
     Ads, Meta Ads, TikTok Ads, Search Engine Marketing (SEM), A/B testing,
-    Mailchimp, HubSpot, Salesforce
+    Mailchimp
 
-# Payments & Finance
-- skill: Payments &amp; Finance
-  description: PayPal, Payoneer, Braintree, Tango Card, Privy
-
-# Finance & HR
-- skill: Finance &amp; HR
-  description: QuickBooks, Xero, Gusto
-
-# Integrations
-- skill: Integrations
-  description: Pentaho Extract, Transform, Load (ETL), Bill.com, Carta
-
-# Operations
-- skill: Operations
-  description: ShipStation, ShipBob
+# Customer Relationship Management (CRM)
+- skill: Customer Relationship Management (CRM)
+  description: HubSpot, Salesforce, Bonterra EveryAction
 
 # Customer Support
 - skill: Customer Support
   description: Zendesk, Gorgias, Intercom
 
-# Project Management
-- skill: Project Management
-  description: Jira, Confluence, Trello, Monday.com, ClickUp
+# Logistics
+- skill: Logistics
+  description: ShipStation, ShipBob, ShipperHQ, manifest.eco
+
+# Payments & Finance
+- skill: Payments &amp; Finance
+  description: Stripe, PayPal, Payoneer, Braintree, Tango Card, Privy
+
+# Programming Languages
+- skill: Programming Languages
+  description: Python, JavaScript, PHP, SQL, Java, PowerShell, HTML, CSS, Bash,
+    BASIC
+
+# Development Frameworks
+- skill: Development Frameworks
+  description: Laravel, Symfony, Shopify Liquid, Zend
+
+# Databases
+- skill: Databases
+  description: MySQL, Supabase, DynamoDB, Redis, Microsoft SQL Server
+
+# Web & Application Infrastructure
+- skill: Web &amp; Application Infrastructure
+  description: Nginx, Apache, HipHop Virtual Machine (HHVM), Varnish, ElasticSearch,
+    Memcached
+
+# Integrations
+- skill: Integrations
+  description: Pentaho Extract, Transform, Load (ETL)
 
 # Collaboration & Productivity
 - skill: Collaboration &amp; Productivity
   description: Slack, Google Workspace, Notion, Figma, Lucidchart, Linear, Asana
 
-# Venture & Advisory
-- skill: Venture &amp; Advisory
-  description: Early-stage investing, portfolio advisory, investment and technical
-    due diligence, founder coaching, fundraising strategy, go-to-market planning,
-    marketing strategy, sales management, eCommerce/Software as a Service (SaaS)
-    assessment, operational scaling, platform architecture review, growth and
-    monetization strategy, Mergers &amp; Acquisitions (M&amp;A) preparation,
-    strategic partnerships
-
-# Physical Security & Access Control
-- skill: Physical Security &amp; Access Control
-  description: Brivo
+# Finance & HR
+- skill: Finance &amp; HR
+  description: QuickBooks, Xero, Bill.com, Gusto
 
 # Cybersecurity & Network Security
 - skill: Cybersecurity &amp; Network Security
   description: Splunk, 1Password, Cisco PIX/ASA, Policy Manager, Access Control
     Server, Virtual Private Network (VPN), Intrusion Detection, Security Scanner,
     Check Point Firewall-1, Raptor Firewall, WatchGuard, ISS RealSecure, Internet
-    / System / Database Scanners, RSA SecurID / Keon, Snort, Nessus
+    / System / Database Scanners, RSA SecurID / Keon, Snort, Nessus, Payment Card
+    Industry Data Security Standard (PCI-DSS)
 
-# IoT Protocols
-- skill: IoT Protocols
-  description: Wi-Fi (802.11), Matter, Thread, Zigbee, Z-Wave, MQTT
+# Physical Security & Access Control
+- skill: Physical Security &amp; Access Control
+  description: Brivo
 
 # Operating Systems
 - skill: Operating Systems
   description: Linux, macOS, Microsoft Windows Server 2025, Windows 11, iOS,
     iPadOS, BSD, Sun Solaris, Cisco IOS
 
-# Network & Application Monitoring Platforms
-- skill: Network &amp; Application Monitoring Platforms
-  description: OpenNMS, Zenoss, Splunk, MRTG, Cricket, Big Brother, Nmap, RANCID,
-    NetFlow Monitor, Webalizer, AWStats, Cisco Works, HP OpenView, Concord Network
-    Health, MicroMuse Netcool, SolarWinds Orion, SiteScope
-
 # Software & Tools
 - skill: Software &amp; Tools
-  description: Microsoft Exchange, Internet Information Services (IIS), VSS,
+  description: Microsoft Exchange, imapsync, Internet Information Services (IIS), VSS,
     Office, Visio, Project, Backup Exec, NetBackup, Amanda, Bacula, SVN Resonate,
     Symantec Antivirus, McAfee VirusScan, Trend Micro OfficeScan, VMware
     Enterprise, BlackBerry Enterprise Server, Remedy, Tomcat, BIND,
     Sendmail, Qmail, SpamAssassin, ClamAV, F5 BIG-IP, 3DNS Ghost, Asterisk,
     Ethereal, tcpdump
+
+# Network & Application Monitoring Platforms
+- skill: Network &amp; Application Monitoring Platforms
+  description: OpenNMS, Zenoss, MRTG, Cricket, Big Brother, Nmap, RANCID,
+    NetFlow Monitor, Webalizer, AWStats, Cisco Works, HP OpenView, Concord Network
+    Health, MicroMuse Netcool, SolarWinds Orion, SiteScope
 
 # Storage
 - skill: Storage
@@ -143,7 +142,11 @@
     Telnet, SMTP, WINS, WHOIS, GRE, TACACS, DNS, TFTP, HTTP, Kerberos, POP3,
     SFTP, NNTP, NTP, NetBIOS, IMAP, SNMP, BGP, IRC, LDAP, HTTPS, ISAKMP,
     Syslog, RIP, RPC, DHCP, iSCSI, rsync, NFS, IPSec, RADIUS, RTMP, HSRP, SCCP,
-    MGCP, SIP, Active Directory
+    MGCP, SIP, Active Directory, Wi-Fi (802.11)
+
+# IoT Protocols
+- skill: IoT Protocols
+  description: Matter, Thread, Zigbee, Z-Wave, MQTT
 
 # Spoken Languages
 - skill: Spoken Languages
