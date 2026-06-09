@@ -24,15 +24,15 @@
   year: Feb 18, 2026
   url: https://www.credly.com/badges/bcb0c580-1846-4269-8200-9f6bb11ee014
 
-- name: ISC2 Candidate
-  organization: ISC2
-  year: Feb 9, 2026
-  url: https://www.credly.com/badges/cd7ea5b0-f8a9-40b0-ad74-2956a7b79343
-
 - name: Certified Wireless IoT Solutions Administrator
   organization: CWNP
   year: Mar 6, 2026
   url: https://www.cwnp.com/cwnpVerification.php?Submit=Verify&cwnp_id=738474
+
+- name: ISC2 Candidate
+  organization: ISC2
+  year: Feb 9, 2026
+  url: https://www.credly.com/badges/cd7ea5b0-f8a9-40b0-ad74-2956a7b79343
 
 - name: Make Intermediate Certificate
   organization: Make
