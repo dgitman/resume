@@ -3,7 +3,7 @@ url: "https://davidgitman.com"
 title: David Gitman
 description: "David Gitman is a technology leader in eCommerce, cloud infrastructure, and AI automation. CTO, founder, and operator with 30+ years building digital commerce platforms."
 lang: en_US
-image: /images/avatar.jpg
+image: /images/og-banner.jpg
 logo: /images/avatar.jpg
 twitter:
   username: dgitman
@@ -66,7 +66,7 @@ resume_section_interests:       true
 # uncomment the options you wish to display, and add your own URL
 resume_social_links:
   resume_website_url:           "https://davidgitman.com"
-  resume_facebook_url:          "https://www.facebook.com/dgitman"
+  resume_facebook_url:          "https://www.facebook.com/dmgitman"
   resume_youtube_url:           "https://www.youtube.com/@davidmgit"
   resume_whatsapp_url:          "https://wa.me/19177232895"
   resume_instagram_url:         "https://www.instagram.com/dgitman"
