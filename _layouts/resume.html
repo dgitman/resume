@@ -216,7 +216,7 @@
         <div class="resume-item">
           <ul class="resume-item-list">
             {% for interest in site.data.interests %}
-            <li>{{ interest.description }}</li>
+            <li>{% if interest.url %}<a href="{{ interest.url }}">{{ interest.description }}</a>{% else %}{{ interest.description }}{% endif %}</li>
             {% endfor %}
           </ul>
         </div>

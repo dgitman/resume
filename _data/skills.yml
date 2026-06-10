@@ -50,7 +50,8 @@
 
 # Marketing
 - skill: Marketing
-  description: Google Analytics 4, Looker Studio (formerly Data Studio), Klaviyo, Ahrefs, Google
+  description: Google Analytics 4, Looker Studio (formerly Data Studio), Microsoft Power BI,
+    Klaviyo, Ahrefs, Google
     Ads, Meta Ads, TikTok Ads, Search Engine Optimization (SEO), Search Engine
     Marketing (SEM), Generative Engine Optimization (GEO), JSON-LD, A/B testing,
     Mailchimp
@@ -95,7 +96,7 @@
 
 # Collaboration & Productivity
 - skill: Collaboration &amp; Productivity
-  description: Slack, Google Workspace, Notion, Figma, Lucidchart, Linear, Asana
+  description: Slack, Google Workspace, Microsoft 365, Notion, Figma, Lucidchart, Asana
 
 # Finance & HR
 - skill: Finance &amp; HR
@@ -103,7 +104,7 @@
 
 # Cybersecurity & Network Security
 - skill: Cybersecurity &amp; Network Security
-  description: Splunk, 1Password, Cisco PIX/ASA, Policy Manager, Access Control
+  description: Splunk, Sophos Email, 1Password, Cisco PIX/ASA, Policy Manager, Access Control
     Server, Virtual Private Network (VPN), Intrusion Detection, Security Scanner,
     Check Point Firewall-1, Raptor Firewall, WatchGuard, ISS RealSecure, Internet
     / System / Database Scanners, RSA SecurID / Keon, Snort, Nessus, Payment Card
