@@ -57,11 +57,10 @@
         "addressRegion": {{ address_region | jsonify }},
         "addressCountry": {{ address_country | jsonify }}
       },
-      "areaServed": [
-        {{ site.resume_contact_address | jsonify }},
-        "United States",
-        "Remote"
-      ]{% if current_job %},
+      "homeLocation": {
+        "@type": "Place",
+        "name": {{ site.resume_contact_address | jsonify }}
+      }{% if current_job %},
       "worksFor": {
         "@type": "Organization",
         "name": {{ current_job.company | jsonify }}{% if current_job.url %},
@@ -71,7 +70,7 @@
         "@type": "Occupation",
         "name": {{ current_job.position | jsonify }}{% if current_job.location and current_job.location != '' %},
         "occupationLocation": {
-          "@type": "Place",
+          "@type": "AdministrativeArea",
           "name": {{ current_job.location | jsonify }}
         }{% endif %}
       }{% endif %}{% if site.resume_avatar == 'true' %},
@@ -140,21 +139,13 @@
       {%- assign end_month = end_str | slice: 4, 2 -%}
       {%- assign end_date = end_year | append: '-' | append: end_month | append: '-01' -%}
     {%- endif -%}
+    {%- assign role_label = job.position | append: ' — ' | append: job.company -%}
     {
       "@type": "OrganizationRole",
       "@id": {{ profile_url | append: '#role-' | append: forloop.index | jsonify }},
-      "roleName": {{ job.position | jsonify }},
-      "memberOf": {
-        "@type": "Organization",
-        "name": {{ job.company | jsonify }}{% if job.url %},
-        "url": {{ job.url | jsonify }}{% endif %}
-      }{% if start_date != '' %},
+      "roleName": {{ role_label | jsonify }}{% if start_date != '' %},
       "startDate": {{ start_date | jsonify }}{% endif %}{% if end_date != '' %},
-      "endDate": {{ end_date | jsonify }}{% endif %}{% if job.location and job.location != '' %},
-      "occupationLocation": {
-        "@type": "Place",
-        "name": {{ job.location | jsonify }}
-      }{% endif %}{% if job.summary and job.summary != '' %},
+      "endDate": {{ end_date | jsonify }}{% endif %}{% if job.summary and job.summary != '' %},
       "description": {{ job.summary | strip_html | strip_newlines | replace: '&rsquo;', "'" | replace: '&ldquo;', '"' | replace: '&rdquo;', '"' | replace: '&mdash;', '—' | replace: '&amp;', '&' | jsonify }}{% endif %}
     }{% unless forloop.last %},{% endunless %}
     {%- endfor -%}
