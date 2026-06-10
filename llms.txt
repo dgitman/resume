@@ -61,7 +61,7 @@ Technologies: Shopify Plus, Magento, AWS, GCP, Kubernetes, Terraform, Docker, Py
 - LinkedIn: https://www.linkedin.com/in/dgitman/
 - GitHub: https://github.com/dgitman
 - Wellfound: https://wellfound.com/u/david-gitman
-- Twitter: https://twitter.com/dgitman
+- X: https://x.com/tortoisepasta
 - Medium: https://medium.com/@dgitman
 - YouTube: https://www.youtube.com/@davidmgit
 
