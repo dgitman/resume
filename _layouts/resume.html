@@ -13,7 +13,7 @@
 
         <!-- You can turn off the avatar in _config.yml by setting to false -->
         {% if site.resume_avatar == 'true' %}
-        <img src="images/avatar.jpg" alt="David Gitman" class="avatar no-print" itemprop="image" width="95" height="95" fetchpriority="high" decoding="async">
+        <img src="images/avatar.jpg" alt="David Gitman" class="avatar no-print" itemprop="image">
         {% endif %}
 
         <!-- Your name is defined in the _config.yml file -->
@@ -47,8 +47,6 @@
         {% endif %}
 
       </header>
-
-      <main>
 
       {% if site.resume_section_experience %}
       <!-- begin Experience -->
@@ -158,7 +156,7 @@
         </header>
         {% for skill in site.data.skills %}
         <div class="resume-item">
-          <h3 class="resume-item-details">{{ skill.skill }}</h3>
+          <h4 class="resume-item-details">{{ skill.skill }}</h4>
           <p class="resume-item-copy">{{ skill.description }}</p>
         </div>
         {% endfor %}
@@ -262,8 +260,6 @@
       </section>
       <!-- end Print Social Links -->
       {% endif %}
-
-      </main>
 
     </div>
 
