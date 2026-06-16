@@ -26,15 +26,15 @@ resume_title:                   "Technology Leader | eCommerce, Cloud Infrastruc
 resume_schema_job_title:        "Technology Leader — eCommerce, Cloud & AI"
 
 # used for the contact button in _layouts/resume.html
-resume_contact_email:           "david@because.ventures"
+resume_contact_email:           "david@davidgitman.com"
 
 # the next two items are used for schema itemprops in _layouts/resume.html
-resume_contact_telephone:       "(917) 723-2895"
+resume_contact_telephone:       "(917) 652-6720"
 resume_contact_address:         "Raleigh-Durham-Chapel Hill Area"
 resume_contact_address_region:  "NC"
 resume_contact_address_country: "US"
 
-resume_header_contact_info:     "Raleigh-Durham-Chapel Hill Area • (917) 723-2895 • david@because.ventures"
+resume_header_contact_info:     "Raleigh-Durham-Chapel Hill Area • (917) 652-6720 • david@davidgitman.com"
 display_header_contact_info:    "true"
 
 resume_header_intro: "<p>Hands-on technology and eCommerce leader with deep experience building and scaling digital commerce platforms, cloud infrastructure, AI-driven automation, and operational systems across startups and growth-stage businesses. My background spans eCommerce, cloud architecture, DevOps, marketplaces, growth systems, and venture-backed technology environments.</p>
@@ -69,7 +69,7 @@ resume_social_links:
   resume_github_url:            "https://github.com/dgitman"
   resume_youtube_url:           "https://www.youtube.com/@davidmgit"
   resume_twitter_url:           "https://x.com/tortoisepasta"
-  resume_whatsapp_url:          "https://wa.me/19177232895"
+  resume_whatsapp_url:          "https://wa.me/19176526720"
   resume_medium_url:            "https://medium.com/@dgitman"
   resume_stackoverflow_url:     "https://stackoverflow.com/users/32814680/dgitman"
   resume_wellfound_url:         "https://wellfound.com/u/david-gitman"
@@ -85,7 +85,7 @@ resume_social_links:
   resume_spotify_url:           "https://open.spotify.com/user/dgitman"
   resume_soundcloud_url:        "https://soundcloud.com/dgitman"
   resume_kik_url:               "https://kik.me/dgitman"
-  resume_vk_url:                "https://vk.com/id9177232895"
+  resume_vk_url:                "https://vk.com/id9176526720"
 resume_print_social_links:      true
 
 # Design settings
