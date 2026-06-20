@@ -78,7 +78,7 @@
       "sameAs": [
         {%- assign same_as_first = true -%}
         {%- for social in site.resume_social_links -%}
-          {%- if social[1] and social[1] != '' -%}
+          {%- if social[1] and social[1] != '' and social[1] contains 'http' -%}
             {%- unless same_as_first -%},{%- endunless -%}
             {{ social[1] | jsonify }}
             {%- assign same_as_first = false -%}
